@@ -1,0 +1,46 @@
+{
+  "name": "all-stars",
+  "version": "0.1.0",
+  "description": "All-star lineup of Node-based FOSS contributors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexdrew/all-stars.git"
+  },
+  "keywords": [
+    "authors",
+    "foss",
+    "credit",
+    "credits",
+    "author",
+    "all-stars",
+    "star",
+    "stars",
+    "contributor",
+    "contributors",
+    "people",
+    "humans",
+    "awesome"
+  ],
+  "author": "nexdrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nexdrew/all-stars/issues"
+  },
+  "homepage": "https://github.com/nexdrew/all-stars#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "gh-user": "sindresorhus/gh-user#18cd65a",
+    "got": "^5.0.0",
+    "is-date-object": "^1.0.1"
+  },
+  "devDependencies": {
+    "chalk": "^1.1.1",
+    "jsonfile": "^2.2.3",
+    "moment": "^2.10.6",
+    "yargs": "^3.29.0"
+  }
+}

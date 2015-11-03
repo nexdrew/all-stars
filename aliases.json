@@ -1,0 +1,13 @@
+{
+  "npm": {
+    "sindresorhus": ["unicorn"],
+    "tjholowaychuk": ["tj"],
+    "3rdeden": ["v1"],
+    "defunctzombie": ["shtylman"],
+    "jongleberry": ["jonathanong"],
+    "nexdrew": ["abg"]
+  },
+  "github": {
+    "tjholowaychuk": ["tj"]
+  }
+}
