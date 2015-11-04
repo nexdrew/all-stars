@@ -1,10 +1,15 @@
 #!/usr/bin/env node
 'use strict'
 
+const path = require('path')
+const format = require('util').format
+const moment = require('moment')
+const now = new Date()
+const outputFile = path.relative('', path.resolve(__dirname, '..', 'generated', format('packages_%s.json', moment(now).format('YYYYMMDD_HHmmss'))))
 const fetcher = require('../lib/packages')
 
 let argv = require('yargs')
-  .usage('Usage: $0 [options]')
+  .usage('Fetch info for top depended packages and generate json data file\n\nUsage: $0 [options]')
   .option('m', {
     alias: 'max',
     describe: 'The max number of packages to fetch',
@@ -16,6 +21,11 @@ let argv = require('yargs')
     describe: 'The index offset fetching should start from',
     default: fetcher.defaultOffset,
     nargs: 1
+  })
+  .option('f', {
+    alias: 'file',
+    describe: 'The file name to write package json data to. Use --no-file to write data to stdout instead.',
+    default: outputFile
   })
   .option('d', {
     alias: 'debug',
@@ -29,15 +39,8 @@ let argv = require('yargs')
   })
   .argv
 
-const format = require('util').format
-const resolve = require('path').resolve
-
 const chalk = require('chalk')
-const moment = require('moment')
 const jsonfile = require('jsonfile')
-
-const now = new Date()
-const fileName = format('packages_%s.json', moment(now).format('YYYYMMDD_HHmmss'))
 
 argv.chalk = chalk
 argv.now = now
@@ -49,9 +52,12 @@ fetcher(argv)
   })
 
 function writeFile (pkgs) {
-  let path = resolve(__dirname, '..', 'generated', fileName)
-  jsonfile.writeFile(path, pkgs, { spaces: 2 }, err => {
-    if (err) console.error('Failed to write %s', chalk.red(path), err)
-    else console.log('Wrote top %s packages to %s', chalk.green(Object.keys(pkgs).length), chalk.yellow(path))
+  if (!argv.file) {
+    console.dir(pkgs)
+    return
+  }
+  jsonfile.writeFile(path.resolve(argv.file), pkgs, { spaces: 2 }, err => {
+    if (err) console.error('Failed to write %s', chalk.red(argv.file), err)
+    else console.log('Wrote top %s packages to %s', chalk.green(Object.keys(pkgs).length), chalk.yellow(argv.file))
   })
 }
