@@ -5,7 +5,8 @@
     "3rdeden": ["v1"],
     "defunctzombie": ["shtylman"],
     "jongleberry": ["jonathanong"],
-    "nexdrew": ["abg"]
+    "nexdrew": ["abg"],
+    "indutny": ["fedor.indutny"]
   },
   "github": {
     "tjholowaychuk": ["tj"],
@@ -24,7 +25,6 @@
     "timmywil": ["timmywil"],
     "caires": ["cairesvs"],
     "bentomas": ["bentomas"],
-    "fedor.indutny": ["indutny"],
     "tim-smart": ["tim-smart"],
     "cloudhead": ["cloudhead"],
     "pwnall": ["pwnall"],
@@ -40,6 +40,35 @@
     "badboy_": ["badboy"],
     "jasondavies": ["jasondavies"],
     "fragphace": ["pwlmaciejewski"],
-    "fivetanley": ["fivetanley"]
+    "fivetanley": ["fivetanley"],
+    "jonschlinkert": ["jonschlinkert"],
+    "millermedeiros": ["millermedeiros"],
+    "floatdrop": ["floatdrop"],
+    "davglass": ["davglass"],
+    "dthree": ["dthree"],
+    "flet": ["Flet"],
+    "timoxley": ["timoxley"],
+    "juliangruber": ["juliangruber"],
+    "mattdesl": ["mattdesl"],
+    "kevva": ["kevva"],
+    "zeke": ["zeke"],
+    "gaearon": ["gaearon"],
+    "sokra": ["sokra"],
+    "rockbot": ["rockbot"],
+    "wooorm": ["wooorm"]
+  },
+  "emails": {
+    "maxogden": ["max+DONT+EMAIL+ME@maxogden.com"],
+    "dthree": ["threedeecee@gmail.com"],
+    "flet": ["flettre@gmail.com"],
+    "mattdesl": ["dave.des@gmail.com"],
+    "gaearon": ["dan.abramov@gmail.com"],
+    "sokra": ["tobias.koppers@googlemail.com"],
+    "juliangruber": ["mail@juliangruber.com"],
+    "millermedeiros": ["miller@millermedeiros.com"]
+  },
+  "names": {
+    "maxogden": ["Maxwell Ogden"],
+    "bcoe": ["Ben Coe"]
   }
 }
