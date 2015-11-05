@@ -1,3 +1,4 @@
 node_modules/
 generated/authors_*
 generated/packages_*
+index_authors.json

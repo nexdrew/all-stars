@@ -4,7 +4,8 @@
   "description": "All-star lineup of Node-based FOSS contributors",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "node scripts/prepublish.js"
   },
   "repository": {
     "type": "git",
