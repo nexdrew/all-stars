@@ -27,8 +27,9 @@ function indexField (index, authors, field) {
 }
 
 function addToIndex (index, key, author) {
-  if (!index[key]) index[key] = author
-  else if (author !== index[key]) console.log('prepublish: Key \'%s\' for author \'%s\' already points to author \'%s\'', chalk.yellow(key), chalk.red(author), chalk.green(index[key]))
+  var k = key.trim().toLowerCase()
+  if (!index[k]) index[k] = author
+  else if (author !== index[k]) console.log('prepublish: Key \'%s\' for author \'%s\' already points to author \'%s\'', chalk.yellow(key), chalk.red(author), chalk.green(index[k]))
 }
 
 function writeIndexFile (index, file) {
