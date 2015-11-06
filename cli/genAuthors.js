@@ -45,6 +45,11 @@ let argv = require('yargs')
     describe: 'The GitHub API token to use. Only necessary to avoid throttling. Alternatively set GITHUB_TOKEN env var.',
     type: 'string'
   })
+  .option('n', {
+    alias: 'noalias',
+    describe: 'Run without loading aliases.json',
+    type: 'boolean'
+  })
   .option('d', {
     alias: 'debug',
     describe: 'Print debug statements',
@@ -59,7 +64,7 @@ let argv = require('yargs')
 
 const jsonfile = require('jsonfile')
 
-const fetcher = require('../lib/authors')
+const fetcher = require('../lib/fetchAuthors')
 
 let pkgs = []
 if (argv.input) {
@@ -72,7 +77,7 @@ if (argv.pkg) {
 
 let opts = {}
 let aliasesFile = path.resolve(__dirname, '..', 'aliases.json')
-if (existsSync(aliasesFile)) opts.aliases = jsonfile.readFileSync(aliasesFile)
+if (!argv.noalias && existsSync(aliasesFile)) opts.aliases = jsonfile.readFileSync(aliasesFile)
 opts.debug = argv.debug
 opts.chalk = require('chalk')
 if (argv.token) opts.githubToken = argv.token

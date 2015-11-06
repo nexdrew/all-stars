@@ -6,7 +6,7 @@ const format = require('util').format
 const moment = require('moment')
 const now = new Date()
 const outputFile = path.relative('', path.resolve(__dirname, '..', 'generated', format('packages_%s.json', moment(now).format('YYYYMMDD_HHmmss'))))
-const fetcher = require('../lib/packages')
+const fetcher = require('../lib/fetchPackages')
 
 let argv = require('yargs')
   .usage('Fetch info for top depended packages and generate json data file\n\nUsage: $0 [options]')
