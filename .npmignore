@@ -1,0 +1,4 @@
+cli/
+generated/
+.gitignore
+aliases.json
