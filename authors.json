@@ -1,4 +1,82 @@
 {
+  "mikeal": {
+    "npmUsers": [
+      "mikeal"
+    ],
+    "emails": [
+      "mikeal.rogers@gmail.com"
+    ],
+    "names": [
+      "Mikeal Rogers"
+    ],
+    "githubUsers": [
+      "mikeal"
+    ]
+  },
+  "nylen": {
+    "npmUsers": [
+      "nylen"
+    ],
+    "emails": [
+      "jnylen@gmail.com"
+    ],
+    "names": [
+      "James Nylen"
+    ],
+    "githubUsers": [
+      "nylen"
+    ]
+  },
+  "fredkschott": {
+    "npmUsers": [
+      "fredkschott"
+    ],
+    "emails": [
+      "fkschott@gmail.com"
+    ],
+    "names": [
+      "Fred K. Schott"
+    ],
+    "githubUsers": [
+      "FredKSchott/",
+      "fredkschott"
+    ],
+    "twitters": [
+      "FredKSchott"
+    ]
+  },
+  "simov": {
+    "npmUsers": [
+      "simov"
+    ],
+    "emails": [
+      "simeonvelichkov@gmail.com"
+    ],
+    "names": [
+      "Simeon Velichkov",
+      "simo"
+    ],
+    "githubUsers": [
+      "simov"
+    ],
+    "twitters": [
+      "_simov"
+    ]
+  },
+  "jashkenas": {
+    "npmUsers": [
+      "jashkenas"
+    ],
+    "emails": [
+      "jashkenas@gmail.com"
+    ],
+    "names": [
+      "Jeremy Ashkenas"
+    ],
+    "githubUsers": [
+      "jashkenas"
+    ]
+  },
   "tjholowaychuk": {
     "npmUsers": [
       "tjholowaychuk"
@@ -7,8 +85,7 @@
       "tj@vision-media.ca"
     ],
     "githubUsers": [
-      "tj",
-      "tjholowaychuk"
+      "tj"
     ],
     "names": [
       "TJ Holowaychuk"
@@ -123,188 +200,32 @@
       "Roman Shtylman"
     ]
   },
-  "sindresorhus": {
+  "timrwood": {
     "npmUsers": [
-      "sindresorhus",
-      "unicorn"
+      "timrwood"
     ],
     "emails": [
-      "sindresorhus@gmail.com",
-      "sindresorhus+unicorn@gmail.com"
-    ],
-    "names": [
-      "Unicorn",
-      "Sindre Sorhus"
+      "washwithcare@gmail.com"
     ],
     "githubUsers": [
-      "sindresorhus"
+      "timrwood"
     ],
-    "twitters": [
-      "sindresorhus"
+    "names": [
+      "Tim Wood"
     ]
   },
-  "jbnicolai": {
+  "ichernev": {
     "npmUsers": [
-      "jbnicolai"
+      "ichernev"
     ],
     "emails": [
-      "jappelman@xebia.com"
+      "iskren.chernev@gmail.com"
     ],
     "names": [
-      "Joshua Appelman"
+      "Iskren Ivov Chernev"
     ],
     "githubUsers": [
-      "jbnicolai"
-    ],
-    "twitters": [
-      "BoyNicolai"
-    ]
-  },
-  "esailija": {
-    "npmUsers": [
-      "esailija"
-    ],
-    "emails": [
-      "petka_antonov@hotmail.com",
-      "petka.antonov@gmail.com"
-    ],
-    "githubUsers": [
-      "petkaantonov"
-    ],
-    "names": [
-      "Petka Antonov"
-    ]
-  },
-  "rvagg": {
-    "npmUsers": [
-      "rvagg"
-    ],
-    "emails": [
-      "rod@vagg.org",
-      "r@va.gg"
-    ],
-    "names": [
-      "Rod Vagg"
-    ],
-    "githubUsers": [
-      "rvagg"
-    ],
-    "twitters": [
-      "rvagg"
-    ]
-  },
-  "bryce": {
-    "npmUsers": [
-      "bryce"
-    ],
-    "emails": [
-      "bryce@ravenwall.com"
-    ],
-    "githubUsers": [
-      "brycebaril"
-    ],
-    "names": [
-      "Bryce Baril"
-    ]
-  },
-  "addyosmani": {
-    "npmUsers": [
-      "addyosmani"
-    ],
-    "emails": [
-      "addyosmani@gmail.com"
-    ],
-    "names": [
-      "Addy Osmani"
-    ],
-    "githubUsers": [
-      "addyosmani"
-    ],
-    "twitters": [
-      "addyosmani"
-    ]
-  },
-  "paulirish": {
-    "npmUsers": [
-      "paulirish"
-    ],
-    "emails": [
-      "paul.irish@gmail.com"
-    ],
-    "names": [
-      "Paul Irish"
-    ],
-    "githubUsers": [
-      "paulirish"
-    ],
-    "twitters": [
-      "paul_irish"
-    ]
-  },
-  "passy": {
-    "npmUsers": [
-      "passy"
-    ],
-    "emails": [
-      "phartig@rdrei.net",
-      "passy@twitter.com"
-    ],
-    "names": [
-      "Pascal Hartig"
-    ],
-    "githubUsers": [
-      "passy"
-    ],
-    "twitters": [
-      "passy"
-    ]
-  },
-  "sboudrias": {
-    "npmUsers": [
-      "sboudrias"
-    ],
-    "emails": [
-      "admin@simonboudrias.com"
-    ],
-    "names": [
-      "Simon Boudrias"
-    ],
-    "githubUsers": [
-      "SBoudrias"
-    ],
-    "twitters": [
-      "vaxilart"
-    ]
-  },
-  "eddiemonge": {
-    "npmUsers": [
-      "eddiemonge"
-    ],
-    "emails": [
-      "eddie+npm@eddiemonge.com"
-    ],
-    "names": [
-      "Eddie Monge"
-    ],
-    "githubUsers": [
-      "eddiemonge"
-    ],
-    "twitters": [
-      "eddiemonge"
-    ]
-  },
-  "jashkenas": {
-    "npmUsers": [
-      "jashkenas"
-    ],
-    "emails": [
-      "jashkenas@gmail.com"
-    ],
-    "names": [
-      "Jeremy Ashkenas"
-    ],
-    "githubUsers": [
-      "jashkenas"
+      "ichernev"
     ]
   },
   "fractal": {
@@ -332,152 +253,219 @@
       "BlaineBublitz"
     ]
   },
-  "mikeal": {
+  "esailija": {
     "npmUsers": [
-      "mikeal"
+      "esailija"
     ],
     "emails": [
-      "mikeal.rogers@gmail.com"
-    ],
-    "names": [
-      "Mikeal Rogers"
+      "petka.antonov@gmail.com",
+      "petka_antonov@hotmail.com"
     ],
     "githubUsers": [
-      "mikeal"
+      "petkaantonov"
+    ],
+    "names": [
+      "Petka Antonov"
     ]
   },
-  "nylen": {
+  "mscdex": {
     "npmUsers": [
-      "nylen"
+      "mscdex"
     ],
     "emails": [
-      "jnylen@gmail.com"
-    ],
-    "names": [
-      "James Nylen"
+      "mscdex@mscdex.net"
     ],
     "githubUsers": [
-      "nylen"
+      "mscdex"
+    ],
+    "names": [
+      "Brian White"
     ]
   },
-  "fredkschott": {
+  "fishrock123": {
     "npmUsers": [
-      "fredkschott"
+      "fishrock123"
     ],
     "emails": [
-      "fkschott@gmail.com"
+      "fishrock123@rocketmail.com"
     ],
     "names": [
-      "Fred K. Schott"
+      "Jeremiah Senkpiel"
     ],
     "githubUsers": [
-      "FredKSchott/",
-      "fredkschott"
+      "Fishrock123"
     ],
     "twitters": [
-      "FredKSchott"
+      "Fishrock123"
     ]
   },
-  "simov": {
+  "rauchg": {
     "npmUsers": [
-      "simov"
+      "rauchg"
     ],
     "emails": [
-      "simeonvelichkov@gmail.com"
+      "rauchg@gmail.com"
     ],
     "names": [
-      "Simeon Velichkov",
-      "simo"
+      "Guillermo Rauch"
     ],
     "githubUsers": [
-      "simov"
+      "rauchg"
+    ]
+  },
+  "aaron": {
+    "npmUsers": [
+      "aaron"
+    ],
+    "emails": [
+      "aaron.heckmann+github@gmail.com"
+    ],
+    "names": [
+      "Aaron Heckmann"
+    ],
+    "githubUsers": [
+      "aheckmann"
     ],
     "twitters": [
-      "_simov"
+      "aaronheckmann"
     ]
   },
-  "substack": {
+  "vkarpov15": {
     "npmUsers": [
-      "substack"
+      "vkarpov15"
     ],
     "emails": [
-      "mail@substack.net",
-      "substack@gmail.com"
+      "val@karpov.io"
     ],
     "names": [
-      "James Halliday"
+      "Valeri Karpov"
     ],
     "githubUsers": [
-      "substack"
+      "vkarpov15"
     ],
     "twitters": [
-      "substack"
+      "code_barbarian"
     ]
   },
-  "zpao": {
+  "tootallnate": {
     "npmUsers": [
-      "zpao"
+      "tootallnate",
+      "TooTallNate"
     ],
     "emails": [
-      "paul@oshannessy.com"
+      "nathan@tootallnate.net"
     ],
     "names": [
-      "Paul O’Shannessy"
+      "Nathan Rajlich"
     ],
     "githubUsers": [
-      "zpao"
+      "TooTallNate"
     ],
     "twitters": [
-      "zpao"
+      "TooTallNate"
     ]
   },
-  "jeffmo": {
+  "isaacs": {
     "npmUsers": [
-      "jeffmo"
+      "isaacs"
     ],
     "emails": [
-      "jeff@anafx.com"
+      "isaacs@npmjs.com",
+      "i@izs.me"
     ],
     "names": [
-      "Jeff Morrison"
+      "Isaac Z. Schlueter",
+      "isaacs"
     ],
     "githubUsers": [
-      "lbljeffmo",
-      "jeffmo"
+      "isaacs"
     ],
     "twitters": [
-      "lbljeffmo"
+      "izs"
     ]
   },
-  "sebmarkbage": {
+  "othiym23": {
     "npmUsers": [
-      "sebmarkbage"
+      "othiym23"
     ],
     "emails": [
-      "sebastian@calyptus.eu"
+      "forrest@npmjs.com",
+      "ogd@aoaioxxysz.net"
     ],
     "names": [
-      "Sebastian Markbåge"
+      "Forrest L Norvell"
     ],
     "githubUsers": [
-      "sebmarkbage"
-    ]
-  },
-  "spicyj": {
-    "npmUsers": [
-      "spicyj"
-    ],
-    "emails": [
-      "ben@benalpert.com"
-    ],
-    "names": [
-      "Ben Alpert"
-    ],
-    "githubUsers": [
-      "spicyj"
+      "othiym23"
     ],
     "twitters": [
-      "soprano"
+      "othiym23"
+    ]
+  },
+  "caolan": {
+    "npmUsers": [
+      "caolan"
+    ],
+    "emails": [
+      "caolan.mcmahon@gmail.com"
+    ],
+    "githubUsers": [
+      "caolan"
+    ],
+    "names": [
+      "Caolan McMahon"
+    ]
+  },
+  "beaugunderson": {
+    "npmUsers": [
+      "beaugunderson"
+    ],
+    "emails": [
+      "beau@beaugunderson.com"
+    ],
+    "names": [
+      "Beau Gunderson"
+    ],
+    "githubUsers": [
+      "beaugunderson"
+    ],
+    "twitters": [
+      "beaugunderson"
+    ]
+  },
+  "aearly": {
+    "npmUsers": [
+      "aearly"
+    ],
+    "emails": [
+      "alexander.early@gmail.com"
+    ],
+    "githubUsers": [
+      "aearly"
+    ],
+    "twitters": [
+      "aeflash"
+    ],
+    "names": [
+      "Alexander Early"
+    ]
+  },
+  "megawac": {
+    "npmUsers": [
+      "megawac"
+    ],
+    "emails": [
+      "yeatesgraeme@gmail.com",
+      "megawac@gmail.com"
+    ],
+    "names": [
+      "Graeme Yeates"
+    ],
+    "githubUsers": [
+      "megawac"
+    ],
+    "twitters": [
+      "megawac"
     ]
   },
   "kriskowal": {
@@ -485,8 +473,8 @@
       "kriskowal"
     ],
     "emails": [
-      "kris.kowal@cixar.com",
-      "kris@cixar.com"
+      "kris@cixar.com",
+      "kris.kowal@cixar.com"
     ],
     "names": [
       "Kris Kowal"
@@ -514,24 +502,6 @@
     ],
     "twitters": [
       "domenic"
-    ]
-  },
-  "tootallnate": {
-    "npmUsers": [
-      "tootallnate",
-      "TooTallNate"
-    ],
-    "emails": [
-      "nathan@tootallnate.net"
-    ],
-    "names": [
-      "Nathan Rajlich"
-    ],
-    "githubUsers": [
-      "TooTallNate"
-    ],
-    "twitters": [
-      "TooTallNate"
     ]
   },
   "jdalton": {
@@ -602,116 +572,41 @@
       "demoneaux"
     ]
   },
-  "caires": {
+  "sindresorhus": {
     "npmUsers": [
-      "caires"
+      "sindresorhus",
+      "unicorn"
     ],
     "emails": [
-      "cairesvs@gmail.com"
-    ],
-    "githubUsers": [
-      "cairesvs"
+      "sindresorhus@gmail.com",
+      "sindresorhus+unicorn@gmail.com"
     ],
     "names": [
-      "Caires Vinicius"
-    ]
-  },
-  "mape": {
-    "npmUsers": [
-      "mape"
-    ],
-    "emails": [
-      "mape@mape.me",
-      "mape@ma.pe"
+      "Sindre Sorhus",
+      "Unicorn"
     ],
     "githubUsers": [
-      "mape"
+      "sindresorhus"
     ],
     "twitters": [
-      "mape"
-    ],
-    "names": [
-      "Mathias Pettersson"
+      "sindresorhus"
     ]
   },
-  "mishoo": {
+  "jbnicolai": {
     "npmUsers": [
-      "mishoo"
+      "jbnicolai"
     ],
     "emails": [
-      "mihai.bazon@gmail.com"
+      "jappelman@xebia.com"
     ],
     "names": [
-      "Mihai Bazon"
+      "Joshua Appelman"
     ],
     "githubUsers": [
-      "mishoo"
-    ]
-  },
-  "michaelficarra": {
-    "npmUsers": [
-      "michaelficarra"
-    ],
-    "emails": [
-      "npm@michael.ficarra.me",
-      "github.public.email@michael.ficarra.me"
-    ],
-    "names": [
-      "Michael Ficarra"
-    ],
-    "githubUsers": [
-      "michaelficarra"
+      "jbnicolai"
     ],
     "twitters": [
-      "jspedant"
-    ]
-  },
-  "leonidas": {
-    "npmUsers": [
-      "leonidas"
-    ],
-    "emails": [
-      "marek@xivilization.net"
-    ],
-    "names": [
-      "Marek Kubica"
-    ],
-    "githubUsers": [
-      "Leonidas-from-XIV"
-    ],
-    "twitters": [
-      "leonidasfromxiv"
-    ]
-  },
-  "mde": {
-    "npmUsers": [
-      "mde"
-    ],
-    "emails": [
-      "mde@fleegix.org"
-    ],
-    "names": [
-      "Matthew Eernisse"
-    ],
-    "githubUsers": [
-      "mde"
-    ]
-  },
-  "sebmck": {
-    "npmUsers": [
-      "sebmck"
-    ],
-    "emails": [
-      "sebmck@gmail.com"
-    ],
-    "names": [
-      "Sebastian McKenzie"
-    ],
-    "githubUsers": [
-      "sebmck"
-    ],
-    "twitters": [
-      "sebmck"
+      "BoyNicolai"
     ]
   },
   "jakeluer": {
@@ -745,106 +640,421 @@
       "chaijs"
     ]
   },
-  "tmpvar": {
+  "edtsech": {
     "npmUsers": [
-      "tmpvar"
+      "edtsech"
     ],
     "emails": [
-      "tmpvar@gmail.com"
+      "edtsech@gmail.com"
     ],
     "names": [
-      "Elijah Insua"
+      "Ed Tsech"
     ],
     "githubUsers": [
-      "tmpvar"
+      "edtsech"
     ],
     "twitters": [
-      "tmpvar"
+      "edtsech"
     ]
   },
-  "sebmaster": {
+  "rwz": {
     "npmUsers": [
-      "sebmaster"
+      "rwz"
     ],
     "emails": [
-      "sebmaster16@gmail.com",
-      "github@smayr.name"
+      "pavel@pravosud.com",
+      "rwz@duckroll.ru"
     ],
     "names": [
-      "Sebastian Mayr"
+      "Pavel Pravosud"
     ],
     "githubUsers": [
-      "Sebmaster"
+      "rwz"
     ],
     "twitters": [
-      "sebmasterkde"
+      "rwz"
     ]
   },
-  "jaffathecake": {
+  "epeli": {
     "npmUsers": [
-      "jaffathecake"
+      "epeli"
     ],
     "emails": [
-      "jaffathecake@gmail.com",
-      " jaffathecake@gmail.com"
-    ],
-    "githubUsers": [
-      "jakearchibald"
+      "esa-matti@suuronen.org"
     ],
     "names": [
-      "Jake Archibald"
-    ]
-  },
-  "stefanpenner": {
-    "npmUsers": [
-      "stefanpenner"
-    ],
-    "emails": [
-      "stefan.penner@gmail.com"
-    ],
-    "names": [
-      "Stefan Penner"
+      "Esa-Matti Suuronen"
     ],
     "githubUsers": [
-      "stefanpenner"
+      "epeli"
     ],
     "twitters": [
-      "stefanpenner"
+      "EsaMatti"
     ]
   },
-  "nlf": {
+  "schtoeffel": {
     "npmUsers": [
-      "nlf"
+      "schtoeffel"
     ],
     "emails": [
-      "quitlahok@gmail.com"
+      "schtoeffel@gmail.com"
     ],
     "names": [
-      "Nathan LaFreniere"
+      "Christoph Hermann"
     ],
     "githubUsers": [
-      "nlf"
-    ],
-    "twitters": [
-      "quitlahok"
+      "stoeffel"
     ]
   },
-  "hueniverse": {
+  "zpao": {
     "npmUsers": [
-      "hueniverse"
+      "zpao"
     ],
     "emails": [
-      "eran@hueniverse.com",
-      "eran@hammer.io"
+      "paul@oshannessy.com"
     ],
     "names": [
-      "Eran Hammer"
+      "Paul O’Shannessy"
     ],
     "githubUsers": [
-      "hueniverse"
+      "zpao"
     ],
     "twitters": [
-      "eranhammer"
+      "zpao"
+    ]
+  },
+  "jeffmo": {
+    "npmUsers": [
+      "jeffmo"
+    ],
+    "emails": [
+      "jeff@anafx.com"
+    ],
+    "names": [
+      "Jeff Morrison"
+    ],
+    "githubUsers": [
+      "lbljeffmo",
+      "jeffmo"
+    ],
+    "twitters": [
+      "lbljeffmo"
+    ]
+  },
+  "sebmarkbage": {
+    "npmUsers": [
+      "sebmarkbage"
+    ],
+    "emails": [
+      "sebastian@calyptus.eu"
+    ],
+    "names": [
+      "Sebastian Markbåge"
+    ],
+    "githubUsers": [
+      "sebmarkbage"
+    ]
+  },
+  "spicyj": {
+    "npmUsers": [
+      "spicyj"
+    ],
+    "emails": [
+      "ben@benalpert.com"
+    ],
+    "names": [
+      "Ben Alpert"
+    ],
+    "githubUsers": [
+      "spicyj"
+    ],
+    "twitters": [
+      "soprano"
+    ]
+  },
+  "dmethvin": {
+    "npmUsers": [
+      "dmethvin"
+    ],
+    "emails": [
+      "dave.methvin@gmail.com"
+    ],
+    "names": [
+      "Dave Methvin"
+    ],
+    "githubUsers": [
+      "dmethvin"
+    ],
+    "twitters": [
+      "davemethvin"
+    ]
+  },
+  "scott.gonzalez": {
+    "npmUsers": [
+      "scott.gonzalez"
+    ],
+    "emails": [
+      "scott.gonzalez@gmail.com"
+    ],
+    "names": [
+      "Scott González"
+    ],
+    "githubUsers": [
+      "scottgonzalez"
+    ],
+    "twitters": [
+      "scott_gonzalez"
+    ]
+  },
+  "m_gol": {
+    "npmUsers": [
+      "m_gol"
+    ],
+    "emails": [
+      "m.goleb@gmail.com"
+    ],
+    "names": [
+      "Michał Gołębiowski"
+    ],
+    "githubUsers": [
+      "mzgol"
+    ],
+    "twitters": [
+      "m_gol"
+    ]
+  },
+  "timmywil": {
+    "npmUsers": [
+      "timmywil"
+    ],
+    "emails": [
+      "timmywillisn@gmail.com"
+    ],
+    "githubUsers": [
+      "timmywil"
+    ],
+    "names": [
+      "Timmy Willison"
+    ]
+  },
+  "chevex": {
+    "npmUsers": [
+      "chevex"
+    ],
+    "emails": [
+      "alex.ford@codetunnel.com"
+    ],
+    "names": [
+      "Alex Ford"
+    ],
+    "githubUsers": [
+      "Chevex"
+    ],
+    "twitters": [
+      "Chevex"
+    ]
+  },
+  "bcoe": {
+    "npmUsers": [
+      "bcoe"
+    ],
+    "emails": [
+      "ben@npmjs.com",
+      "bencoe@gmail.com"
+    ],
+    "names": [
+      "Benjamin Coe",
+      "Ben Coe",
+      "Benjamin E. Coe"
+    ],
+    "githubUsers": [
+      "bcoe"
+    ],
+    "twitters": [
+      "benjamincoe"
+    ]
+  },
+  "chjj": {
+    "npmUsers": [
+      "chjj"
+    ],
+    "emails": [
+      "chjjeffrey@gmail.com"
+    ],
+    "names": [
+      "Christopher Jeffrey (JJ)"
+    ],
+    "githubUsers": [
+      "chjj"
+    ]
+  },
+  "substack": {
+    "npmUsers": [
+      "substack"
+    ],
+    "emails": [
+      "mail@substack.net",
+      "substack@gmail.com"
+    ],
+    "names": [
+      "James Halliday"
+    ],
+    "githubUsers": [
+      "substack"
+    ],
+    "twitters": [
+      "substack"
+    ]
+  },
+  "superjoe": {
+    "npmUsers": [
+      "superjoe"
+    ],
+    "emails": [
+      "superjoe30@gmail.com"
+    ],
+    "names": [
+      "Andrew Kelley"
+    ],
+    "githubUsers": [
+      "andrewrk"
+    ],
+    "twitters": [
+      "andy_kelley"
+    ]
+  },
+  "gjohnson": {
+    "npmUsers": [
+      "gjohnson"
+    ],
+    "emails": [
+      "gjj391@gmail.com"
+    ],
+    "names": [
+      "Garrett Johnson"
+    ],
+    "githubUsers": [
+      "gjohnson"
+    ],
+    "twitters": [
+      "gjohnson391"
+    ]
+  },
+  "yields": {
+    "npmUsers": [
+      "yields"
+    ],
+    "emails": [
+      "yields@icloud.com"
+    ],
+    "githubUsers": [
+      "yields"
+    ],
+    "twitters": [
+      "_yields"
+    ],
+    "names": [
+      "Amir Abu Shareb"
+    ]
+  },
+  "kof": {
+    "npmUsers": [
+      "kof"
+    ],
+    "emails": [
+      "oleg008@gmail.com"
+    ],
+    "names": [
+      "Oleg Slobodskoi"
+    ],
+    "githubUsers": [
+      "kof"
+    ],
+    "twitters": [
+      "oleg008"
+    ]
+  },
+  "travisjeffery": {
+    "npmUsers": [
+      "travisjeffery"
+    ],
+    "emails": [
+      "tj@travisjeffery.com"
+    ],
+    "names": [
+      "travis jeffery"
+    ],
+    "githubUsers": [
+      "travisjeffery"
+    ],
+    "twitters": [
+      "travisjeffery"
+    ]
+  },
+  "nw": {
+    "npmUsers": [
+      "nw"
+    ],
+    "emails": [
+      "nw@nwhite.net"
+    ],
+    "names": [
+      "Nathan White"
+    ],
+    "githubUsers": [
+      "nw"
+    ],
+    "twitters": [
+      "_nw_"
+    ]
+  },
+  "naman34": {
+    "npmUsers": [
+      "naman34"
+    ],
+    "emails": [
+      "naman34@gmail.com"
+    ],
+    "names": [
+      "Naman Goel"
+    ],
+    "githubUsers": [
+      "nmn"
+    ],
+    "twitters": [
+      "naman34"
+    ]
+  },
+  "rvagg": {
+    "npmUsers": [
+      "rvagg"
+    ],
+    "emails": [
+      "r@va.gg",
+      "rod@vagg.org"
+    ],
+    "names": [
+      "Rod Vagg"
+    ],
+    "githubUsers": [
+      "rvagg"
+    ],
+    "twitters": [
+      "rvagg"
+    ]
+  },
+  "bryce": {
+    "npmUsers": [
+      "bryce"
+    ],
+    "emails": [
+      "bryce@ravenwall.com"
+    ],
+    "githubUsers": [
+      "brycebaril"
+    ],
+    "names": [
+      "Bryce Baril"
     ]
   },
   "forbeslindesay": {
@@ -895,133 +1105,52 @@
       "alubbe"
     ]
   },
-  "isaacs": {
+  "ariya": {
     "npmUsers": [
-      "isaacs"
+      "ariya"
     ],
     "emails": [
-      "i@izs.me",
-      "isaacs@npmjs.com"
+      "ariya.hidayat@gmail.com"
     ],
     "names": [
-      "Isaac Z. Schlueter",
-      "isaacs"
+      "Ariya Hidayat"
     ],
     "githubUsers": [
-      "isaacs"
+      "ariya"
     ],
     "twitters": [
-      "izs"
+      "ariyahidayat"
     ]
   },
-  "braddunbar": {
+  "broofa": {
     "npmUsers": [
-      "braddunbar"
+      "broofa"
     ],
     "emails": [
-      "dunbarb2@gmail.com"
+      "robert@broofa.com"
     ],
     "names": [
-      "Brad Dunbar"
+      "Robert Kieffer"
     ],
     "githubUsers": [
-      "braddunbar"
+      "broofa"
     ],
     "twitters": [
-      "braddunbar"
+      "broofa"
     ]
   },
-  "stephenplusplus": {
+  "mde": {
     "npmUsers": [
-      "stephenplusplus"
+      "mde"
     ],
     "emails": [
-      "sawchuk@gmail.com"
+      "mde@fleegix.org"
     ],
     "names": [
-      "Stephen Sawchuk"
+      "Matthew Eernisse"
     ],
     "githubUsers": [
-      "stephenplusplus"
-    ],
-    "twitters": [
-      "stephenplusplus"
-    ]
-  },
-  "arthurvr": {
-    "npmUsers": [
-      "arthurvr"
-    ],
-    "emails": [
-      "contact@arthurverschaeve.be",
-      "arthur.versch@gmail.com"
-    ],
-    "names": [
-      "Arthur Verschaeve"
-    ],
-    "githubUsers": [
-      "arthur",
-      "arthurvr"
-    ],
-    "twitters": [
-      "arthur_versch"
-    ]
-  },
-  "nathan7": {
-    "npmUsers": [
-      "nathan7"
-    ],
-    "emails": [
-      "nathan@nathan7.eu"
-    ],
-    "names": [
-      "Nathan Zadoks"
-    ],
-    "githubUsers": [
-      "nathan7"
-    ]
-  },
-  "cloudhead": {
-    "npmUsers": [
-      "cloudhead"
-    ],
-    "emails": [
-      "self@cloudhead.net",
-      "github@cloudhead.io"
-    ],
-    "githubUsers": [
-      "cloudhead"
-    ],
-    "names": [
-      "Alexis Sellier"
-    ]
-  },
-  "agatronic": {
-    "npmUsers": [
-      "agatronic"
-    ],
-    "emails": [
-      "luke.a.page@gmail.com"
-    ],
-    "names": [
-      "Luke Page"
-    ],
-    "githubUsers": [
-      "agatronic"
-    ]
-  },
-  "cohara87": {
-    "npmUsers": [
-      "cohara87"
-    ],
-    "emails": [
-      "cohara87@gmail.com"
-    ],
-    "githubUsers": [
-      "chriso"
-    ],
-    "names": [
-      "Chris O'Hara"
+      "mde"
     ]
   },
   "indexzero": {
@@ -1041,6 +1170,23 @@
       "indexzero"
     ]
   },
+  "mmalecki": {
+    "npmUsers": [
+      "mmalecki"
+    ],
+    "emails": [
+      "me@mmalecki.com"
+    ],
+    "names": [
+      "Maciej Małecki"
+    ],
+    "githubUsers": [
+      "mmalecki"
+    ],
+    "twitters": [
+      "maciejmalecki"
+    ]
+  },
   "jcrugzz": {
     "npmUsers": [
       "jcrugzz"
@@ -1058,83 +1204,344 @@
       "jcrugzz"
     ]
   },
-  "mscdex": {
+  "nlf": {
     "npmUsers": [
-      "mscdex"
+      "nlf"
     ],
     "emails": [
-      "mscdex@mscdex.net"
-    ],
-    "githubUsers": [
-      "mscdex"
+      "quitlahok@gmail.com"
     ],
     "names": [
-      "Brian White"
-    ]
-  },
-  "fishrock123": {
-    "npmUsers": [
-      "fishrock123"
-    ],
-    "emails": [
-      "fishrock123@rocketmail.com"
-    ],
-    "names": [
-      "Jeremiah Senkpiel"
+      "Nathan LaFreniere"
     ],
     "githubUsers": [
-      "Fishrock123"
+      "nlf"
     ],
     "twitters": [
-      "Fishrock123"
+      "quitlahok"
     ]
   },
-  "ai": {
+  "hueniverse": {
     "npmUsers": [
-      "ai"
+      "hueniverse"
     ],
     "emails": [
-      "andrey@sitnik.ru"
+      "eran@hammer.io",
+      "eran@hueniverse.com"
     ],
     "names": [
-      "Andrey Sitnik"
+      "Eran Hammer"
     ],
     "githubUsers": [
-      "ai"
-    ]
-  },
-  "beneb": {
-    "npmUsers": [
-      "beneb"
-    ],
-    "emails": [
-      "beneb.info@gmail.com"
-    ],
-    "names": [
-      "Ben Briggs"
-    ],
-    "githubUsers": [
-      "ben-eb"
+      "hueniverse"
     ],
     "twitters": [
-      "ben_eb"
+      "eranhammer"
     ]
   },
-  "broofa": {
+  "boneskull": {
     "npmUsers": [
-      "broofa"
+      "boneskull"
     ],
     "emails": [
-      "robert@broofa.com"
+      "boneskull@boneskull.com"
     ],
     "names": [
-      "Robert Kieffer"
+      "Christopher Hiller"
     ],
     "githubUsers": [
-      "broofa"
+      "boneskull"
     ],
     "twitters": [
-      "broofa"
+      "misterhiller"
+    ]
+  },
+  "zkat": {
+    "npmUsers": [
+      "zkat"
+    ],
+    "emails": [
+      "kzm@sykosomatic.org",
+      "kat@sykosomatic.org"
+    ],
+    "names": [
+      "Kat Marchaán",
+      "Kat Marchán"
+    ],
+    "githubUsers": [
+      "zkat"
+    ],
+    "twitters": [
+      "maybekatz"
+    ]
+  },
+  "marak": {
+    "npmUsers": [
+      "marak"
+    ],
+    "emails": [
+      "support@marak.com",
+      "marak.squires@gmail.com"
+    ],
+    "githubUsers": [
+      "marak"
+    ]
+  },
+  "michaelficarra": {
+    "npmUsers": [
+      "michaelficarra"
+    ],
+    "emails": [
+      "github.public.email@michael.ficarra.me",
+      "npm@michael.ficarra.me"
+    ],
+    "names": [
+      "Michael Ficarra"
+    ],
+    "githubUsers": [
+      "michaelficarra"
+    ],
+    "twitters": [
+      "jspedant"
+    ]
+  },
+  "stephenplusplus": {
+    "npmUsers": [
+      "stephenplusplus"
+    ],
+    "emails": [
+      "sawchuk@gmail.com"
+    ],
+    "names": [
+      "Stephen Sawchuk"
+    ],
+    "githubUsers": [
+      "stephenplusplus"
+    ],
+    "twitters": [
+      "stephenplusplus"
+    ]
+  },
+  "addyosmani": {
+    "npmUsers": [
+      "addyosmani"
+    ],
+    "emails": [
+      "addyosmani@gmail.com"
+    ],
+    "names": [
+      "Addy Osmani"
+    ],
+    "githubUsers": [
+      "addyosmani"
+    ],
+    "twitters": [
+      "addyosmani"
+    ]
+  },
+  "eddiemonge": {
+    "npmUsers": [
+      "eddiemonge"
+    ],
+    "emails": [
+      "eddie+npm@eddiemonge.com"
+    ],
+    "names": [
+      "Eddie Monge"
+    ],
+    "githubUsers": [
+      "eddiemonge"
+    ],
+    "twitters": [
+      "eddiemonge"
+    ]
+  },
+  "passy": {
+    "npmUsers": [
+      "passy"
+    ],
+    "emails": [
+      "passy@twitter.com",
+      "phartig@rdrei.net"
+    ],
+    "names": [
+      "Pascal Hartig"
+    ],
+    "githubUsers": [
+      "passy"
+    ],
+    "twitters": [
+      "passy"
+    ]
+  },
+  "sboudrias": {
+    "npmUsers": [
+      "sboudrias"
+    ],
+    "emails": [
+      "admin@simonboudrias.com"
+    ],
+    "names": [
+      "Simon Boudrias"
+    ],
+    "githubUsers": [
+      "SBoudrias"
+    ],
+    "twitters": [
+      "vaxilart"
+    ]
+  },
+  "arthurvr": {
+    "npmUsers": [
+      "arthurvr"
+    ],
+    "emails": [
+      "arthur.versch@gmail.com",
+      "contact@arthurverschaeve.be"
+    ],
+    "names": [
+      "Arthur Verschaeve"
+    ],
+    "githubUsers": [
+      "arthur",
+      "arthurvr"
+    ],
+    "twitters": [
+      "arthur_versch"
+    ]
+  },
+  "maxogden": {
+    "npmUsers": [
+      "maxogden"
+    ],
+    "emails": [
+      "max@maxogden.com",
+      "max+DONT+EMAIL+ME@maxogden.com"
+    ],
+    "names": [
+      "Max Ogden",
+      "Maxwell Ogden",
+      "=^._.^="
+    ],
+    "githubUsers": [
+      "maxogden"
+    ],
+    "twitters": [
+      "maxogden"
+    ]
+  },
+  "mafintosh": {
+    "npmUsers": [
+      "mafintosh"
+    ],
+    "emails": [
+      "mathiasbuus@gmail.com"
+    ],
+    "names": [
+      "Mathias Buus"
+    ],
+    "githubUsers": [
+      "mafintosh"
+    ],
+    "twitters": [
+      "mafintosh"
+    ]
+  },
+  "dominictarr": {
+    "npmUsers": [
+      "dominictarr"
+    ],
+    "emails": [
+      "dominic.tarr@gmail.com"
+    ],
+    "names": [
+      "Dominic Tarr"
+    ],
+    "githubUsers": [
+      "dominictarr"
+    ],
+    "twitters": [
+      "dominictarr"
+    ]
+  },
+  "terinjokes": {
+    "npmUsers": [
+      "terinjokes"
+    ],
+    "emails": [
+      "terin@terinstock.com",
+      "terinjokes@gmail.com"
+    ],
+    "names": [
+      "Terin Stock"
+    ],
+    "githubUsers": [
+      "terinjokes"
+    ],
+    "twitters": [
+      "terinjokes"
+    ]
+  },
+  "feross": {
+    "npmUsers": [
+      "feross"
+    ],
+    "emails": [
+      "feross@feross.org"
+    ],
+    "names": [
+      "Feross Aboukhadijeh"
+    ],
+    "githubUsers": [
+      "feross"
+    ],
+    "twitters": [
+      "feross"
+    ]
+  },
+  "jmm": {
+    "npmUsers": [
+      "jmm"
+    ],
+    "emails": [
+      "npm-public@jessemccarthy.net"
+    ],
+    "names": [
+      "Jesse McCarthy"
+    ],
+    "githubUsers": [
+      "jmm"
+    ]
+  },
+  "thlorenz": {
+    "npmUsers": [
+      "thlorenz"
+    ],
+    "emails": [
+      "thlorenz@gmx.de"
+    ],
+    "names": [
+      "Thorsten Lorenz"
+    ],
+    "githubUsers": [
+      "thlorenz"
+    ],
+    "twitters": [
+      "thlorenz"
+    ]
+  },
+  "zertosh": {
+    "npmUsers": [
+      "zertosh"
+    ],
+    "emails": [
+      "zertosh@gmail.com"
+    ],
+    "names": [
+      "Andres Suarez"
+    ],
+    "githubUsers": [
+      "zertosh"
     ]
   },
   "tim-smart": {
@@ -1168,108 +1575,280 @@
       "zeroload"
     ]
   },
-  "aws": {
+  "bridgear": {
     "npmUsers": [
-      "aws"
+      "bridgear"
     ],
     "emails": [
-      "trevrowe@amazon.com"
+      "ruben@bridgewater.de"
     ],
     "names": [
-      "Amazon Web Services"
+      "Ruben Bridgewater"
     ],
     "githubUsers": [
-      "aws/aws-sdk-js"
+      "BridgeAR"
     ],
     "twitters": [
-      "awscloud"
+      "BridgeAR"
     ]
   },
-  "coolaj86": {
+  "dtrejo": {
     "npmUsers": [
-      "coolaj86"
+      "dtrejo"
     ],
     "emails": [
-      "coolaj86@gmail.com",
-      "awesome@coolaj86.com"
+      "david+gh@dtrejo.com",
+      "david.daniel.trejo@gmail.com"
     ],
     "names": [
-      "AJ ONeal"
+      "David Trejo"
     ],
     "githubUsers": [
-      "coolaj86"
+      "DTrejo"
     ],
     "twitters": [
-      "coolaj86"
+      "ddtrejo"
     ]
   },
-  "jinder": {
+  "erinspice": {
     "npmUsers": [
-      "jinder"
+      "erinspice"
     ],
     "emails": [
-      "jindersidhu@gmail.com"
+      "yes@erin.codes"
     ],
     "names": [
-      "Jinder Sidhu",
-      "Jinder"
+      "Erin Spiceland"
     ],
     "githubUsers": [
-      "jinder"
+      "erinspice"
     ],
     "twitters": [
-      "jindersidhu"
+      "erinspice/"
     ]
   },
-  "terinjokes": {
+  "mjr": {
     "npmUsers": [
-      "terinjokes"
+      "mjr"
     ],
     "emails": [
-      "terinjokes@gmail.com",
-      "terin@terinstock.com"
-    ],
-    "names": [
-      "Terin Stock"
+      "mjr@ranney.com"
     ],
     "githubUsers": [
-      "terinjokes"
+      "mranney"
+    ],
+    "names": [
+      "Matt Ranney"
+    ]
+  },
+  "raydog": {
+    "npmUsers": [
+      "raydog"
+    ],
+    "emails": [
+      "raydog87@gmail.com"
+    ],
+    "names": [
+      "Ray Myers",
+      "Raymond Myers"
+    ],
+    "githubUsers": [
+      "raydog"
+    ]
+  },
+  "cwmma": {
+    "npmUsers": [
+      "cwmma"
+    ],
+    "emails": [
+      "calvin.metcalf@gmail.com"
+    ],
+    "names": [
+      "Calvin Metcalf"
+    ],
+    "githubUsers": [
+      "calvinmetcalf"
     ],
     "twitters": [
-      "terinjokes"
+      "cwmma"
     ]
   },
-  "andris": {
+  "justmoon": {
     "npmUsers": [
-      "andris"
+      "justmoon"
     ],
     "emails": [
-      "andris@node.ee",
-      "andris.reinman@gmail.com"
+      "justmoon@members.fsf.org"
     ],
     "names": [
-      "Andris Reinman"
+      "Stefan Thomas"
     ],
     "githubUsers": [
-      "andris9"
+      "justmoon"
     ],
     "twitters": [
-      "andrisreinman"
+      "justmoon"
     ]
   },
-  "einaros": {
+  "ljharb": {
     "npmUsers": [
-      "einaros"
+      "ljharb"
     ],
     "emails": [
-      "einaros@gmail.com",
-      "einaro.s@gmail.com"
-    ],
-    "githubUsers": [
-      "einaros"
+      "ljharb@gmail.com"
     ],
     "names": [
-      "Einar Otto Stangvik"
+      "Jordan Harband"
+    ],
+    "githubUsers": [
+      "ljharb"
+    ],
+    "twitters": [
+      "LJHarb"
+    ]
+  },
+  "nathan7": {
+    "npmUsers": [
+      "nathan7"
+    ],
+    "emails": [
+      "nathan@nathan7.eu"
+    ],
+    "names": [
+      "Nathan Zadoks"
+    ],
+    "githubUsers": [
+      "nathan7"
+    ]
+  },
+  "kizu": {
+    "npmUsers": [
+      "kizu"
+    ],
+    "emails": [
+      "kizmarh@ya.ru"
+    ],
+    "names": [
+      "Roman Komarov"
+    ],
+    "githubUsers": [
+      "kizu/",
+      "kizu"
+    ],
+    "twitters": [
+      "kizmarh/"
+    ]
+  },
+  "somekittens": {
+    "npmUsers": [
+      "somekittens"
+    ],
+    "emails": [
+      "@rkoutnik",
+      "rkoutnik@gmail.com"
+    ],
+    "githubUsers": [
+      "SomeKittens"
+    ],
+    "twitters": [
+      "rkoutnik"
+    ],
+    "names": [
+      "Randall Koutnik"
+    ]
+  },
+  "zhiyelee": {
+    "npmUsers": [
+      "zhiyelee"
+    ],
+    "emails": [
+      "github@zhiye.li",
+      "zhiyelee@gmail.com"
+    ],
+    "names": [
+      "Zhiye Li"
+    ],
+    "githubUsers": [
+      "zhiyelee"
+    ],
+    "twitters": [
+      "zhiyelee"
+    ]
+  },
+  "kpdecker": {
+    "npmUsers": [
+      "kpdecker"
+    ],
+    "emails": [
+      "kpdecker@gmail.com"
+    ],
+    "names": [
+      "Kevin Decker"
+    ],
+    "githubUsers": [
+      "kpdecker"
+    ]
+  },
+  "cowboy": {
+    "npmUsers": [
+      "cowboy"
+    ],
+    "emails": [
+      "cowboy@rj3.net"
+    ],
+    "names": [
+      "Ben Alman"
+    ],
+    "githubUsers": [
+      "cowboy"
+    ]
+  },
+  "tkellen": {
+    "npmUsers": [
+      "tkellen"
+    ],
+    "emails": [
+      "tyler@sleekcode.net"
+    ],
+    "names": [
+      "Tyler Kellen"
+    ],
+    "githubUsers": [
+      "tkellen"
+    ]
+  },
+  "leonidas": {
+    "npmUsers": [
+      "leonidas"
+    ],
+    "emails": [
+      "marek@xivilization.net"
+    ],
+    "names": [
+      "Marek Kubica"
+    ],
+    "githubUsers": [
+      "Leonidas-from-XIV"
+    ],
+    "twitters": [
+      "leonidasfromxiv"
+    ]
+  },
+  "pose": {
+    "npmUsers": [
+      "pose"
+    ],
+    "emails": [
+      "albertopose@gmail.com"
+    ],
+    "names": [
+      "Alberto Pose"
+    ],
+    "githubUsers": [
+      "pose"
+    ],
+    "twitters": [
+      "thepose"
     ]
   },
   "3rdeden": {
@@ -1278,9 +1857,9 @@
       "v1"
     ],
     "emails": [
+      "opensource@3rd-eden.com",
       "npm@3rd-Eden.com",
-      "info@3rd-Eden.com",
-      "opensource@3rd-eden.com"
+      "info@3rd-Eden.com"
     ],
     "githubUsers": [
       "3rd-Eden"
@@ -1289,36 +1868,153 @@
       "Arnout Kazemier"
     ]
   },
-  "kkoopa": {
+  "vitaly": {
     "npmUsers": [
-      "kkoopa"
+      "vitaly"
     ],
     "emails": [
-      "bbyholm@abo.fi"
+      "vitaly@rcdesign.ru"
     ],
     "names": [
-      "Benjamin Byholm"
+      "Vitaly Puzrin"
     ],
     "githubUsers": [
-      "kkoopa"
-    ]
-  },
-  "medikoo": {
-    "npmUsers": [
-      "medikoo"
-    ],
-    "emails": [
-      "medikoo+npm@medikoo.com",
-      "medyk@medikoo.com"
-    ],
-    "names": [
-      "Mariusz Nowak"
-    ],
-    "githubUsers": [
-      "medikoo"
+      "puzrin"
     ],
     "twitters": [
-      "medikoo"
+      "puzrin"
+    ]
+  },
+  "einaros": {
+    "npmUsers": [
+      "einaros"
+    ],
+    "emails": [
+      "einaro.s@gmail.com",
+      "einaros@gmail.com"
+    ],
+    "githubUsers": [
+      "einaros"
+    ],
+    "names": [
+      "Einar Otto Stangvik"
+    ]
+  },
+  "mattmueller": {
+    "npmUsers": [
+      "mattmueller"
+    ],
+    "emails": [
+      "matt@lapwinglabs.com",
+      "mattmuelle@gmail.com"
+    ],
+    "githubUsers": [
+      "matthewmueller"
+    ],
+    "names": [
+      "Matthew Mueller"
+    ]
+  },
+  "davidchambers": {
+    "npmUsers": [
+      "davidchambers"
+    ],
+    "emails": [
+      "dc@davidchambers.me"
+    ],
+    "names": [
+      "David Chambers"
+    ],
+    "githubUsers": [
+      "davidchambers"
+    ]
+  },
+  "jugglinmike": {
+    "npmUsers": [
+      "jugglinmike"
+    ],
+    "emails": [
+      "mike@mikepennisi.com"
+    ],
+    "githubUsers": [
+      "jugglinmike"
+    ],
+    "twitters": [
+      "jugglinmike"
+    ]
+  },
+  "feedic": {
+    "npmUsers": [
+      "feedic"
+    ],
+    "emails": [
+      "me@feedic.com"
+    ],
+    "names": [
+      "Felix Böhm"
+    ],
+    "githubUsers": [
+      "fb55"
+    ],
+    "twitters": [
+      "fb55"
+    ]
+  },
+  "paularmstrong": {
+    "npmUsers": [
+      "paularmstrong"
+    ],
+    "emails": [
+      "paul@paularmstrongdesigns.com"
+    ],
+    "names": [
+      "Paul Armstrong"
+    ],
+    "githubUsers": [
+      "paularmstrong"
+    ]
+  },
+  "jrburke": {
+    "npmUsers": [
+      "jrburke"
+    ],
+    "emails": [
+      "jrburke@gmail.com"
+    ],
+    "githubUsers": [
+      "jrburke"
+    ],
+    "names": [
+      "James Burke"
+    ]
+  },
+  "pietern": {
+    "npmUsers": [
+      "pietern"
+    ],
+    "emails": [
+      "pcnoordhuis@gmail.com"
+    ],
+    "names": [
+      "Pieter Noordhuis"
+    ],
+    "githubUsers": [
+      "pietern"
+    ]
+  },
+  "badboy_": {
+    "npmUsers": [
+      "badboy_"
+    ],
+    "emails": [
+      "badboy@archlinux.us",
+      "janerik@fnordig.de"
+    ],
+    "githubUsers": [
+      "badboy"
+    ],
+    "names": [
+      "Jan-Erik Rediger"
     ]
   },
   "bclinkinbeard": {
@@ -1370,6 +2066,124 @@
       "Pete Bacon Darwin"
     ]
   },
+  "wyatt": {
+    "npmUsers": [
+      "wyatt"
+    ],
+    "emails": [
+      "wpreul@gmail.com"
+    ],
+    "names": [
+      "Wyatt Preul"
+    ],
+    "githubUsers": [
+      "geek"
+    ],
+    "twitters": [
+      "wpreul"
+    ]
+  },
+  "arb": {
+    "npmUsers": [
+      "arb"
+    ],
+    "emails": [
+      "arbretz@gmail.com"
+    ],
+    "names": [
+      "Adam Bretz"
+    ],
+    "githubUsers": [
+      "arb"
+    ],
+    "twitters": [
+      "adambretz"
+    ]
+  },
+  "hij1nx": {
+    "npmUsers": [
+      "hij1nx"
+    ],
+    "emails": [
+      "paolo@async.ly",
+      "hij1nx@me.com"
+    ],
+    "names": [
+      "Paolo Fragomeni"
+    ],
+    "githubUsers": [
+      "hij1nx"
+    ],
+    "twitters": [
+      "hij1nx"
+    ]
+  },
+  "jasonkuhrt": {
+    "npmUsers": [
+      "jasonkuhrt"
+    ],
+    "emails": [
+      "jasonkuhrt@me.com"
+    ],
+    "names": [
+      "Jason Rose-Kuhrt"
+    ],
+    "githubUsers": [
+      "jasonkuhrt"
+    ],
+    "twitters": [
+      "jasonkuhrt"
+    ]
+  },
+  "dpup": {
+    "npmUsers": [
+      "dpup"
+    ],
+    "emails": [
+      "dan@pupi.us"
+    ],
+    "names": [
+      "Daniel Pupius"
+    ],
+    "githubUsers": [
+      "dpup"
+    ]
+  },
+  "nicks": {
+    "npmUsers": [
+      "nicks"
+    ],
+    "emails": [
+      "nicholas.j.santos@gmail.com"
+    ],
+    "names": [
+      "Nick Santos"
+    ],
+    "githubUsers": [
+      "nicks"
+    ],
+    "twitters": [
+      "nicksantos"
+    ]
+  },
+  "medium": {
+    "npmUsers": [
+      "medium"
+    ],
+    "emails": [
+      "yourfriends@medium.com",
+      "npm@medium.com"
+    ],
+    "names": [
+      "Medium"
+    ],
+    "githubUsers": [
+      "medium"
+    ],
+    "twitters": [
+      "MediumEng"
+    ]
+  },
   "wycats": {
     "npmUsers": [
       "wycats"
@@ -1403,6 +2217,23 @@
       "ryanflorence"
     ]
   },
+  "stefanpenner": {
+    "npmUsers": [
+      "stefanpenner"
+    ],
+    "emails": [
+      "stefan.penner@gmail.com"
+    ],
+    "names": [
+      "Stefan Penner"
+    ],
+    "githubUsers": [
+      "stefanpenner"
+    ],
+    "twitters": [
+      "stefanpenner"
+    ]
+  },
   "fivetanley": {
     "npmUsers": [
       "fivetanley"
@@ -1432,6 +2263,113 @@
     ],
     "twitters": [
       "mixonic"
+    ]
+  },
+  "rondale-sc": {
+    "npmUsers": [
+      "rondale-sc"
+    ],
+    "emails": [
+      "jonathan.jackson1@me.com"
+    ],
+    "names": [
+      "Jonathan Jackson",
+      "Jonathan"
+    ],
+    "githubUsers": [
+      "rondale-sc"
+    ],
+    "twitters": [
+      "rondale_sc"
+    ]
+  },
+  "rwjblue": {
+    "npmUsers": [
+      "rwjblue"
+    ],
+    "emails": [
+      "me@rwjblue.com",
+      "robert.w.jackson@me.com"
+    ],
+    "names": [
+      "Robert Jackson"
+    ],
+    "githubUsers": [
+      "rwjblue"
+    ],
+    "twitters": [
+      "rwjblue"
+    ]
+  },
+  "jga": {
+    "npmUsers": [
+      "jga"
+    ],
+    "emails": [
+      "hi@firstandthird.com",
+      "me@jga.me"
+    ],
+    "names": [
+      "Greg Allen"
+    ],
+    "githubUsers": [
+      "jgallen23"
+    ],
+    "twitters": [
+      "greg_allen"
+    ]
+  },
+  "isagalaev": {
+    "npmUsers": [
+      "isagalaev"
+    ],
+    "emails": [
+      "maniac@softwaremaniacs.org"
+    ],
+    "names": [
+      "Ivan Sagalaev"
+    ],
+    "githubUsers": [
+      "isagalaev"
+    ]
+  },
+  "goalsmashers": {
+    "npmUsers": [
+      "goalsmashers"
+    ],
+    "emails": [
+      "jakub@goalsmashers.com"
+    ]
+  },
+  "jakub.pawlowicz": {
+    "npmUsers": [
+      "jakub.pawlowicz"
+    ],
+    "emails": [
+      "contact@jakubpawlowicz.com"
+    ],
+    "names": [
+      "Jakub Pawlowicz"
+    ],
+    "githubUsers": [
+      "jakubpawlowicz"
+    ],
+    "twitters": [
+      "jakubpawlowicz"
+    ]
+  },
+  "jedwatson": {
+    "npmUsers": [
+      "jedwatson"
+    ],
+    "emails": [
+      "jed.watson@me.com"
+    ],
+    "names": [
+      "Jed Watson"
+    ],
+    "githubUsers": [
+      "JedWatson"
     ]
   },
   "am11": {
@@ -1551,320 +2489,189 @@
       "xzyfer"
     ]
   },
-  "paulmillr": {
+  "trentm": {
     "npmUsers": [
-      "paulmillr"
+      "trentm"
     ],
     "emails": [
-      "paul@paulmillr.com",
-      "paul+gh@paulmillr.com"
-    ],
-    "githubUsers": [
-      "paulmillr"
+      "trentm@gmail.com"
     ],
     "names": [
-      "Paul Miller"
-    ]
-  },
-  "es128": {
-    "npmUsers": [
-      "es128"
-    ],
-    "emails": [
-      "elan.shanker+npm@gmail.com"
-    ],
-    "names": [
-      "Elan Shanker"
+      "Trent Mick"
     ],
     "githubUsers": [
-      "es128"
-    ]
-  },
-  "justmoon": {
-    "npmUsers": [
-      "justmoon"
-    ],
-    "emails": [
-      "justmoon@members.fsf.org"
-    ],
-    "names": [
-      "Stefan Thomas"
-    ],
-    "githubUsers": [
-      "justmoon"
+      "trentm"
     ],
     "twitters": [
-      "justmoon"
+      "trentmick"
     ]
   },
-  "ljharb": {
+  "medikoo": {
     "npmUsers": [
-      "ljharb"
+      "medikoo"
     ],
     "emails": [
-      "ljharb@gmail.com"
+      "medyk@medikoo.com",
+      "medikoo+npm@medikoo.com"
     ],
     "names": [
-      "Jordan Harband"
+      "Mariusz Nowak"
     ],
     "githubUsers": [
-      "ljharb"
+      "medikoo"
     ],
     "twitters": [
-      "LJHarb"
+      "medikoo"
     ]
   },
-  "chevex": {
+  "cronopio": {
     "npmUsers": [
-      "chevex"
+      "cronopio"
     ],
     "emails": [
-      "alex.ford@codetunnel.com"
+      "aristizabal.daniel@gmail.com"
     ],
     "names": [
-      "Alex Ford"
+      "Daniel Aristizabal"
     ],
     "githubUsers": [
-      "Chevex"
+      "cronopio"
     ],
     "twitters": [
-      "Chevex"
+      "cronopio2"
     ]
   },
-  "bcoe": {
+  "yawnt": {
     "npmUsers": [
-      "bcoe"
+      "yawnt"
     ],
     "emails": [
-      "ben@npmjs.com",
-      "bencoe@gmail.com"
-    ],
-    "names": [
-      "Ben Coe",
-      "Benjamin Coe",
-      "Benjamin E. Coe"
+      "me@yawnt.com",
+      "yawn.localhost@gmail.com"
     ],
     "githubUsers": [
-      "bcoe"
+      "yawnt"
     ],
     "twitters": [
-      "benjamincoe"
-    ]
-  },
-  "edtsech": {
-    "npmUsers": [
-      "edtsech"
-    ],
-    "emails": [
-      "edtsech@gmail.com"
+      "yawnt"
     ],
     "names": [
-      "Ed Tsech"
+      "ヨーント"
+    ]
+  },
+  "braddunbar": {
+    "npmUsers": [
+      "braddunbar"
+    ],
+    "emails": [
+      "dunbarb2@gmail.com"
+    ],
+    "names": [
+      "Brad Dunbar"
     ],
     "githubUsers": [
-      "edtsech"
+      "braddunbar"
     ],
     "twitters": [
-      "edtsech"
+      "braddunbar"
     ]
   },
-  "rwz": {
+  "crosseye": {
     "npmUsers": [
-      "rwz"
+      "crosseye"
     ],
     "emails": [
-      "rwz@duckroll.ru",
-      "pavel@pravosud.com"
+      "scott.sauyet@gmail.com",
+      "scott@sauyet.com"
     ],
     "names": [
-      "Pavel Pravosud"
+      "Scott Sauyet"
     ],
     "githubUsers": [
-      "rwz"
+      "CrossEye/",
+      "crosseye"
+    ]
+  },
+  "buzzdecafe": {
+    "npmUsers": [
+      "buzzdecafe"
+    ],
+    "emails": [
+      "mh@buzzdecafe.com"
+    ],
+    "names": [
+      "Buzz de Cafe",
+      "Michael Hurley"
+    ],
+    "githubUsers": [
+      "buzzdecafe"
     ],
     "twitters": [
-      "rwz"
+      "buzzdecafe"
     ]
   },
-  "epeli": {
+  "soldair": {
     "npmUsers": [
-      "epeli"
+      "soldair"
     ],
     "emails": [
-      "esa-matti@suuronen.org"
+      "soldair@gmail.com"
     ],
     "names": [
-      "Esa-Matti Suuronen"
+      "Ryan Day"
     ],
     "githubUsers": [
-      "epeli"
+      "soldair"
     ],
     "twitters": [
-      "EsaMatti"
+      "soldair"
     ]
   },
-  "schtoeffel": {
+  "hallas": {
     "npmUsers": [
-      "schtoeffel"
+      "hallas"
     ],
     "emails": [
-      "schtoeffel@gmail.com"
-    ],
-    "names": [
-      "Christoph Hermann"
+      "christoffer.hallas@gmail.com",
+      "christoffer.hallas@forsvikgroup.com"
     ],
     "githubUsers": [
-      "stoeffel"
+      "hallas"
+    ],
+    "names": [
+      "Christoffer Hallas"
     ]
   },
-  "superjoe": {
+  "prezjordan": {
     "npmUsers": [
-      "superjoe"
+      "prezjordan"
     ],
     "emails": [
-      "superjoe30@gmail.com"
+      "scalesjordan@gmail.com"
     ],
     "names": [
-      "Andrew Kelley"
+      "Jordan Scales"
     ],
     "githubUsers": [
-      "andrewrk"
+      "jdan"
     ],
     "twitters": [
-      "andy_kelley"
+      "jdan"
     ]
   },
-  "gjohnson": {
+  "bruce": {
     "npmUsers": [
-      "gjohnson"
+      "bruce"
     ],
     "emails": [
-      "gjj391@gmail.com"
-    ],
-    "names": [
-      "Garrett Johnson"
+      "brwcodes@gmail.com",
+      "bruce@codefluency.com"
     ],
     "githubUsers": [
-      "gjohnson"
-    ],
-    "twitters": [
-      "gjohnson391"
-    ]
-  },
-  "rauchg": {
-    "npmUsers": [
-      "rauchg"
-    ],
-    "emails": [
-      "rauchg@gmail.com"
+      "bruce"
     ],
     "names": [
-      "Guillermo Rauch"
-    ],
-    "githubUsers": [
-      "rauchg"
-    ]
-  },
-  "yields": {
-    "npmUsers": [
-      "yields"
-    ],
-    "emails": [
-      "yields@icloud.com"
-    ],
-    "githubUsers": [
-      "yields"
-    ],
-    "twitters": [
-      "_yields"
-    ],
-    "names": [
-      "Amir Abu Shareb"
-    ]
-  },
-  "kof": {
-    "npmUsers": [
-      "kof"
-    ],
-    "emails": [
-      "oleg008@gmail.com"
-    ],
-    "names": [
-      "Oleg Slobodskoi"
-    ],
-    "githubUsers": [
-      "kof"
-    ],
-    "twitters": [
-      "oleg008"
-    ]
-  },
-  "travisjeffery": {
-    "npmUsers": [
-      "travisjeffery"
-    ],
-    "emails": [
-      "tj@travisjeffery.com"
-    ],
-    "names": [
-      "travis jeffery"
-    ],
-    "githubUsers": [
-      "travisjeffery"
-    ],
-    "twitters": [
-      "travisjeffery"
-    ]
-  },
-  "nw": {
-    "npmUsers": [
-      "nw"
-    ],
-    "emails": [
-      "nw@nwhite.net"
-    ],
-    "names": [
-      "Nathan White"
-    ],
-    "githubUsers": [
-      "nw"
-    ],
-    "twitters": [
-      "_nw_"
-    ]
-  },
-  "naman34": {
-    "npmUsers": [
-      "naman34"
-    ],
-    "emails": [
-      "naman34@gmail.com"
-    ],
-    "names": [
-      "Naman Goel"
-    ],
-    "githubUsers": [
-      "nmn"
-    ],
-    "twitters": [
-      "naman34"
-    ]
-  },
-  "dominictarr": {
-    "npmUsers": [
-      "dominictarr"
-    ],
-    "emails": [
-      "dominic.tarr@gmail.com"
-    ],
-    "names": [
-      "Dominic Tarr"
-    ],
-    "githubUsers": [
-      "dominictarr"
-    ],
-    "twitters": [
-      "dominictarr"
+      "Bruce Williams"
     ]
   },
   "federomero": {
@@ -1872,8 +2679,8 @@
       "federomero"
     ],
     "emails": [
-      "federomero@gmail.com",
-      "hi@federomero.uy"
+      "hi@federomero.uy",
+      "federomero@gmail.com"
     ],
     "names": [
       "Federico Romero"
@@ -1885,778 +2692,68 @@
       "federomero"
     ]
   },
-  "avianflu": {
+  "mbostock": {
     "npmUsers": [
-      "avianflu"
+      "mbostock"
     ],
     "emails": [
-      "charlie@charlieistheman.com"
+      "mike@ocks.org",
+      "mbostock@gmail.com"
     ],
     "names": [
-      "Charlie McConnell"
+      "Mike Bostock"
     ],
     "githubUsers": [
-      "AvianFlu"
+      "mbostock"
     ],
     "twitters": [
-      "av1anflu"
+      "mbostock"
     ]
   },
-  "mmalecki": {
+  "jasondavies": {
     "npmUsers": [
-      "mmalecki"
+      "jasondavies"
     ],
     "emails": [
-      "me@mmalecki.com"
-    ],
-    "names": [
-      "Maciej Małecki"
+      "jason@jasondavies.com"
     ],
     "githubUsers": [
-      "mmalecki"
+      "jasondavies"
+    ],
+    "names": [
+      "Jason Davies"
+    ]
+  },
+  "harth": {
+    "npmUsers": [
+      "harth"
+    ],
+    "emails": [
+      "fayearthur@gmail.com"
+    ],
+    "names": [
+      "Heather Arthur",
+      "Heather Arthur (All My Repos Are Unmaintained)"
+    ],
+    "githubUsers": [
+      "harthur"
     ],
     "twitters": [
-      "maciejmalecki"
+      "harthvader"
     ]
   },
-  "creationix": {
+  "ashtuchkin": {
     "npmUsers": [
-      "creationix"
+      "ashtuchkin"
     ],
     "emails": [
-      "tim@creationix.com"
+      "ashtuchkin@gmail.com"
     ],
     "names": [
-      "Tim Caswell"
+      "Alexander Shtuchkin"
     ],
     "githubUsers": [
-      "creationix"
-    ]
-  },
-  "btd": {
-    "npmUsers": [
-      "btd"
-    ],
-    "emails": [
-      "bardadymchik@gmail.com"
-    ],
-    "names": [
-      "Denis Bardadym"
-    ],
-    "githubUsers": [
-      "btd"
-    ]
-  },
-  "caolan": {
-    "npmUsers": [
-      "caolan"
-    ],
-    "emails": [
-      "caolan.mcmahon@gmail.com"
-    ],
-    "githubUsers": [
-      "caolan"
-    ],
-    "names": [
-      "Caolan McMahon"
-    ]
-  },
-  "beaugunderson": {
-    "npmUsers": [
-      "beaugunderson"
-    ],
-    "emails": [
-      "beau@beaugunderson.com"
-    ],
-    "names": [
-      "Beau Gunderson"
-    ],
-    "githubUsers": [
-      "beaugunderson"
-    ],
-    "twitters": [
-      "beaugunderson"
-    ]
-  },
-  "aearly": {
-    "npmUsers": [
-      "aearly"
-    ],
-    "emails": [
-      "alexander.early@gmail.com"
-    ],
-    "githubUsers": [
-      "aearly"
-    ],
-    "twitters": [
-      "aeflash"
-    ],
-    "names": [
-      "Alexander Early"
-    ]
-  },
-  "megawac": {
-    "npmUsers": [
-      "megawac"
-    ],
-    "emails": [
-      "megawac@gmail.com",
-      "yeatesgraeme@gmail.com"
-    ],
-    "names": [
-      "Graeme Yeates"
-    ],
-    "githubUsers": [
-      "megawac"
-    ],
-    "twitters": [
-      "megawac"
-    ]
-  },
-  "gordonkristan": {
-    "npmUsers": [
-      "gordonkristan"
-    ],
-    "emails": [
-      "me@gordonkristan.com"
-    ],
-    "names": [
-      "Gordon Kristan"
-    ],
-    "githubUsers": [
-      "gordonkristan"
-    ]
-  },
-  "constellation": {
-    "npmUsers": [
-      "constellation"
-    ],
-    "emails": [
-      "utatane.tea@gmail.com"
-    ],
-    "names": [
-      "Yusuke SUZUKI"
-    ],
-    "githubUsers": [
-      "Constellation"
-    ],
-    "twitters": [
-      "Constellation"
-    ]
-  },
-  "othiym23": {
-    "npmUsers": [
-      "othiym23"
-    ],
-    "emails": [
-      "ogd@aoaioxxysz.net",
-      "forrest@npmjs.com"
-    ],
-    "names": [
-      "Forrest L Norvell"
-    ],
-    "githubUsers": [
-      "othiym23"
-    ],
-    "twitters": [
-      "othiym23"
-    ]
-  },
-  "somekittens": {
-    "npmUsers": [
-      "somekittens"
-    ],
-    "emails": [
-      "rkoutnik@gmail.com",
-      "@rkoutnik"
-    ],
-    "githubUsers": [
-      "SomeKittens"
-    ],
-    "twitters": [
-      "rkoutnik"
-    ],
-    "names": [
-      "Randall Koutnik"
-    ]
-  },
-  "zhiyelee": {
-    "npmUsers": [
-      "zhiyelee"
-    ],
-    "emails": [
-      "zhiyelee@gmail.com",
-      "github@zhiye.li"
-    ],
-    "names": [
-      "Zhiye Li"
-    ],
-    "githubUsers": [
-      "zhiyelee"
-    ],
-    "twitters": [
-      "zhiyelee"
-    ]
-  },
-  "bentomas": {
-    "npmUsers": [
-      "bentomas"
-    ],
-    "emails": [
-      "benjamin@benjaminthomas.org",
-      "ben@bentomas.com"
-    ],
-    "githubUsers": [
-      "bentomas"
-    ],
-    "names": [
-      "Benjamin Thomas"
-    ]
-  },
-  "kpdecker": {
-    "npmUsers": [
-      "kpdecker"
-    ],
-    "emails": [
-      "kpdecker@gmail.com"
-    ],
-    "names": [
-      "Kevin Decker"
-    ],
-    "githubUsers": [
-      "kpdecker"
-    ]
-  },
-  "christkv": {
-    "npmUsers": [
-      "christkv"
-    ],
-    "emails": [
-      "christkv@gmail.com"
-    ],
-    "names": [
-      "Christian Amor Kvalheim"
-    ],
-    "githubUsers": [
-      "christkv"
-    ]
-  },
-  "iarna": {
-    "npmUsers": [
-      "iarna"
-    ],
-    "emails": [
-      "me@re-becca.org"
-    ],
-    "names": [
-      "Rebecca Turner"
-    ],
-    "githubUsers": [
-      "iarna"
-    ],
-    "twitters": [
-      "ReBeccaOrg"
-    ]
-  },
-  "zkat": {
-    "npmUsers": [
-      "zkat"
-    ],
-    "emails": [
-      "kat@sykosomatic.org",
-      "kzm@sykosomatic.org"
-    ],
-    "names": [
-      "Kat Marchaán",
-      "Kat Marchán"
-    ],
-    "githubUsers": [
-      "zkat"
-    ],
-    "twitters": [
-      "maybekatz"
-    ]
-  },
-  "boneskull": {
-    "npmUsers": [
-      "boneskull"
-    ],
-    "emails": [
-      "boneskull@boneskull.com"
-    ],
-    "names": [
-      "Christopher Hiller"
-    ],
-    "githubUsers": [
-      "boneskull"
-    ],
-    "twitters": [
-      "misterhiller"
-    ]
-  },
-  "aaron": {
-    "npmUsers": [
-      "aaron"
-    ],
-    "emails": [
-      "aaron.heckmann+github@gmail.com"
-    ],
-    "names": [
-      "Aaron Heckmann"
-    ],
-    "githubUsers": [
-      "aheckmann"
-    ],
-    "twitters": [
-      "aaronheckmann"
-    ]
-  },
-  "vkarpov15": {
-    "npmUsers": [
-      "vkarpov15"
-    ],
-    "emails": [
-      "val@karpov.io"
-    ],
-    "names": [
-      "Valeri Karpov"
-    ],
-    "githubUsers": [
-      "vkarpov15"
-    ],
-    "twitters": [
-      "code_barbarian"
-    ]
-  },
-  "timrwood": {
-    "npmUsers": [
-      "timrwood"
-    ],
-    "emails": [
-      "washwithcare@gmail.com"
-    ],
-    "githubUsers": [
-      "timrwood"
-    ],
-    "names": [
-      "Tim Wood"
-    ]
-  },
-  "ichernev": {
-    "npmUsers": [
-      "ichernev"
-    ],
-    "emails": [
-      "iskren.chernev@gmail.com"
-    ],
-    "names": [
-      "Iskren Ivov Chernev"
-    ],
-    "githubUsers": [
-      "ichernev"
-    ]
-  },
-  "vitaly": {
-    "npmUsers": [
-      "vitaly"
-    ],
-    "emails": [
-      "vitaly@rcdesign.ru"
-    ],
-    "names": [
-      "Vitaly Puzrin"
-    ],
-    "githubUsers": [
-      "puzrin"
-    ],
-    "twitters": [
-      "puzrin"
-    ]
-  },
-  "mattmueller": {
-    "npmUsers": [
-      "mattmueller"
-    ],
-    "emails": [
-      "mattmuelle@gmail.com",
-      "matt@lapwinglabs.com"
-    ],
-    "githubUsers": [
-      "matthewmueller"
-    ],
-    "names": [
-      "Matthew Mueller"
-    ]
-  },
-  "davidchambers": {
-    "npmUsers": [
-      "davidchambers"
-    ],
-    "emails": [
-      "dc@davidchambers.me"
-    ],
-    "names": [
-      "David Chambers"
-    ],
-    "githubUsers": [
-      "davidchambers"
-    ]
-  },
-  "jugglinmike": {
-    "npmUsers": [
-      "jugglinmike"
-    ],
-    "emails": [
-      "mike@mikepennisi.com"
-    ],
-    "githubUsers": [
-      "jugglinmike"
-    ],
-    "twitters": [
-      "jugglinmike"
-    ]
-  },
-  "feedic": {
-    "npmUsers": [
-      "feedic"
-    ],
-    "emails": [
-      "me@feedic.com"
-    ],
-    "names": [
-      "Felix Böhm"
-    ],
-    "githubUsers": [
-      "fb55"
-    ],
-    "twitters": [
-      "fb55"
-    ]
-  },
-  "dmethvin": {
-    "npmUsers": [
-      "dmethvin"
-    ],
-    "emails": [
-      "dave.methvin@gmail.com"
-    ],
-    "names": [
-      "Dave Methvin"
-    ],
-    "githubUsers": [
-      "dmethvin"
-    ],
-    "twitters": [
-      "davemethvin"
-    ]
-  },
-  "scott.gonzalez": {
-    "npmUsers": [
-      "scott.gonzalez"
-    ],
-    "emails": [
-      "scott.gonzalez@gmail.com"
-    ],
-    "names": [
-      "Scott González"
-    ],
-    "githubUsers": [
-      "scottgonzalez"
-    ],
-    "twitters": [
-      "scott_gonzalez"
-    ]
-  },
-  "m_gol": {
-    "npmUsers": [
-      "m_gol"
-    ],
-    "emails": [
-      "m.goleb@gmail.com"
-    ],
-    "names": [
-      "Michał Gołębiowski"
-    ],
-    "githubUsers": [
-      "mzgol"
-    ],
-    "twitters": [
-      "m_gol"
-    ]
-  },
-  "timmywil": {
-    "npmUsers": [
-      "timmywil"
-    ],
-    "emails": [
-      "timmywillisn@gmail.com"
-    ],
-    "githubUsers": [
-      "timmywil"
-    ],
-    "names": [
-      "Timmy Willison"
-    ]
-  },
-  "cwmma": {
-    "npmUsers": [
-      "cwmma"
-    ],
-    "emails": [
-      "calvin.metcalf@gmail.com"
-    ],
-    "names": [
-      "Calvin Metcalf"
-    ],
-    "githubUsers": [
-      "calvinmetcalf"
-    ],
-    "twitters": [
-      "cwmma"
-    ]
-  },
-  "jprichardson": {
-    "npmUsers": [
-      "jprichardson"
-    ],
-    "emails": [
-      "jprichardson@gmail.com"
-    ],
-    "names": [
-      "JP Richardson"
-    ],
-    "githubUsers": [
-      "jprichardson"
-    ],
-    "twitters": [
-      "jprichardson"
-    ]
-  },
-  "maxogden": {
-    "npmUsers": [
-      "maxogden"
-    ],
-    "emails": [
-      "max@maxogden.com",
-      "max+DONT+EMAIL+ME@maxogden.com"
-    ],
-    "names": [
-      "Maxwell Ogden",
-      "Max Ogden",
-      "=^._.^="
-    ],
-    "githubUsers": [
-      "maxogden"
-    ],
-    "twitters": [
-      "maxogden"
-    ]
-  },
-  "mafintosh": {
-    "npmUsers": [
-      "mafintosh"
-    ],
-    "emails": [
-      "mathiasbuus@gmail.com"
-    ],
-    "names": [
-      "Mathias Buus"
-    ],
-    "githubUsers": [
-      "mafintosh"
-    ],
-    "twitters": [
-      "mafintosh"
-    ]
-  },
-  "feross": {
-    "npmUsers": [
-      "feross"
-    ],
-    "emails": [
-      "feross@feross.org"
-    ],
-    "names": [
-      "Feross Aboukhadijeh"
-    ],
-    "githubUsers": [
-      "feross"
-    ],
-    "twitters": [
-      "feross"
-    ]
-  },
-  "jmm": {
-    "npmUsers": [
-      "jmm"
-    ],
-    "emails": [
-      "npm-public@jessemccarthy.net"
-    ],
-    "names": [
-      "Jesse McCarthy"
-    ],
-    "githubUsers": [
-      "jmm"
-    ]
-  },
-  "thlorenz": {
-    "npmUsers": [
-      "thlorenz"
-    ],
-    "emails": [
-      "thlorenz@gmx.de"
-    ],
-    "names": [
-      "Thorsten Lorenz"
-    ],
-    "githubUsers": [
-      "thlorenz"
-    ],
-    "twitters": [
-      "thlorenz"
-    ]
-  },
-  "zertosh": {
-    "npmUsers": [
-      "zertosh"
-    ],
-    "emails": [
-      "zertosh@gmail.com"
-    ],
-    "names": [
-      "Andres Suarez"
-    ],
-    "githubUsers": [
-      "zertosh"
-    ]
-  },
-  "marak": {
-    "npmUsers": [
-      "marak"
-    ],
-    "emails": [
-      "marak.squires@gmail.com",
-      "support@marak.com"
-    ],
-    "githubUsers": [
-      "marak"
-    ]
-  },
-  "bridgear": {
-    "npmUsers": [
-      "bridgear"
-    ],
-    "emails": [
-      "ruben@bridgewater.de"
-    ],
-    "names": [
-      "Ruben Bridgewater"
-    ],
-    "githubUsers": [
-      "BridgeAR"
-    ],
-    "twitters": [
-      "BridgeAR"
-    ]
-  },
-  "dtrejo": {
-    "npmUsers": [
-      "dtrejo"
-    ],
-    "emails": [
-      "david.daniel.trejo@gmail.com",
-      "david+gh@dtrejo.com"
-    ],
-    "names": [
-      "David Trejo"
-    ],
-    "githubUsers": [
-      "DTrejo"
-    ],
-    "twitters": [
-      "ddtrejo"
-    ]
-  },
-  "erinspice": {
-    "npmUsers": [
-      "erinspice"
-    ],
-    "emails": [
-      "yes@erin.codes"
-    ],
-    "names": [
-      "Erin Spiceland"
-    ],
-    "githubUsers": [
-      "erinspice"
-    ],
-    "twitters": [
-      "erinspice/"
-    ]
-  },
-  "mjr": {
-    "npmUsers": [
-      "mjr"
-    ],
-    "emails": [
-      "mjr@ranney.com"
-    ],
-    "githubUsers": [
-      "mranney"
-    ],
-    "names": [
-      "Matt Ranney"
-    ]
-  },
-  "raydog": {
-    "npmUsers": [
-      "raydog"
-    ],
-    "emails": [
-      "raydog87@gmail.com"
-    ],
-    "names": [
-      "Ray Myers",
-      "Raymond Myers"
-    ],
-    "githubUsers": [
-      "raydog"
-    ]
-  },
-  "marsup": {
-    "npmUsers": [
-      "marsup"
-    ],
-    "emails": [
-      "marsup@gmail.com"
-    ],
-    "names": [
-      "Nicolas Morel"
-    ],
-    "githubUsers": [
-      "Marsup"
-    ],
-    "twitters": [
-      "nmarsup"
-    ]
-  },
-  "kizu": {
-    "npmUsers": [
-      "kizu"
-    ],
-    "emails": [
-      "kizmarh@ya.ru"
-    ],
-    "names": [
-      "Roman Komarov"
-    ],
-    "githubUsers": [
-      "kizu/",
-      "kizu"
-    ],
-    "twitters": [
-      "kizmarh/"
+      "ashtuchkin"
     ]
   },
   "hparra": {
@@ -2708,43 +2805,120 @@
       "shinnn_tw"
     ]
   },
-  "cujojs": {
+  "coolaj86": {
     "npmUsers": [
-      "cujojs"
+      "coolaj86"
     ],
     "emails": [
-      "info@cujojs.com"
-    ]
-  },
-  "chjj": {
-    "npmUsers": [
-      "chjj"
-    ],
-    "emails": [
-      "chjjeffrey@gmail.com"
+      "awesome@coolaj86.com",
+      "coolaj86@gmail.com"
     ],
     "names": [
-      "Christopher Jeffrey (JJ)"
+      "AJ ONeal"
     ],
     "githubUsers": [
-      "chjj"
-    ]
-  },
-  "pose": {
-    "npmUsers": [
-      "pose"
-    ],
-    "emails": [
-      "albertopose@gmail.com"
-    ],
-    "names": [
-      "Alberto Pose"
-    ],
-    "githubUsers": [
-      "pose"
+      "coolaj86"
     ],
     "twitters": [
-      "thepose"
+      "coolaj86"
+    ]
+  },
+  "jinder": {
+    "npmUsers": [
+      "jinder"
+    ],
+    "emails": [
+      "jindersidhu@gmail.com"
+    ],
+    "names": [
+      "Jinder Sidhu",
+      "Jinder"
+    ],
+    "githubUsers": [
+      "jinder"
+    ],
+    "twitters": [
+      "jindersidhu"
+    ]
+  },
+  "constellation": {
+    "npmUsers": [
+      "constellation"
+    ],
+    "emails": [
+      "utatane.tea@gmail.com"
+    ],
+    "names": [
+      "Yusuke SUZUKI"
+    ],
+    "githubUsers": [
+      "Constellation"
+    ],
+    "twitters": [
+      "Constellation"
+    ]
+  },
+  "jprichardson": {
+    "npmUsers": [
+      "jprichardson"
+    ],
+    "emails": [
+      "jprichardson@gmail.com"
+    ],
+    "names": [
+      "JP Richardson"
+    ],
+    "githubUsers": [
+      "jprichardson"
+    ],
+    "twitters": [
+      "jprichardson"
+    ]
+  },
+  "az7arul": {
+    "npmUsers": [
+      "az7arul"
+    ],
+    "emails": [
+      "az7arul@gmail.com"
+    ],
+    "githubUsers": [
+      "az7arul"
+    ],
+    "twitters": [
+      "az7arul"
+    ],
+    "names": [
+      "Azharul Islam"
+    ]
+  },
+  "brianc": {
+    "npmUsers": [
+      "brianc"
+    ],
+    "emails": [
+      "brian.m.carlson@gmail.com"
+    ],
+    "names": [
+      "Brian Carlson",
+      "Brian C"
+    ],
+    "githubUsers": [
+      "brianc"
+    ],
+    "twitters": [
+      "briancarlson"
+    ]
+  },
+  "yeikos": {
+    "npmUsers": [
+      "yeikos"
+    ],
+    "emails": [
+      "yeikos@gmail.com"
+    ],
+    "githubUsers": [
+      "yeikos"
     ]
   },
   "artur": {
@@ -2752,7 +2926,8 @@
       "artur"
     ],
     "emails": [
-      "arturadib@gmail.com"
+      "arturadib@gmail.com",
+      "aadib@mozilla.com"
     ],
     "names": [
       "Artur Adib"
@@ -2764,18 +2939,274 @@
       "r2r"
     ]
   },
-  "jaredhanson": {
+  "cloudhead": {
     "npmUsers": [
-      "jaredhanson"
+      "cloudhead"
     ],
     "emails": [
-      "jaredhanson@gmail.com"
-    ],
-    "names": [
-      "Jared Hanson"
+      "github@cloudhead.io",
+      "self@cloudhead.net"
     ],
     "githubUsers": [
-      "jaredhanson"
+      "cloudhead"
+    ],
+    "names": [
+      "Alexis Sellier"
+    ]
+  },
+  "agatronic": {
+    "npmUsers": [
+      "agatronic"
+    ],
+    "emails": [
+      "luke.a.page@gmail.com"
+    ],
+    "names": [
+      "Luke Page"
+    ],
+    "githubUsers": [
+      "agatronic"
+    ]
+  },
+  "ryanmcgrath": {
+    "npmUsers": [
+      "ryanmcgrath"
+    ],
+    "emails": [
+      "ryan@venodesigns.net"
+    ],
+    "names": [
+      "Ryan McGrath"
+    ],
+    "githubUsers": [
+      "ryanmcgrath"
+    ]
+  },
+  "pvorb": {
+    "npmUsers": [
+      "pvorb"
+    ],
+    "emails": [
+      "paul@vorba.ch",
+      "paul@vorb.de"
+    ],
+    "names": [
+      "Paul Vorbach"
+    ],
+    "githubUsers": [
+      "pvorb"
+    ],
+    "twitters": [
+      "pvorb"
+    ]
+  },
+  "btd": {
+    "npmUsers": [
+      "btd"
+    ],
+    "emails": [
+      "bardadymchik@gmail.com"
+    ],
+    "names": [
+      "Denis Bardadym"
+    ],
+    "githubUsers": [
+      "btd"
+    ]
+  },
+  "satazor": {
+    "npmUsers": [
+      "satazor"
+    ],
+    "emails": [
+      "amdfcruz@gmail.com",
+      "andremiguelcruz@msn.com"
+    ],
+    "names": [
+      "André Cruz"
+    ],
+    "githubUsers": [
+      "satazor"
+    ],
+    "twitters": [
+      "satazor"
+    ]
+  },
+  "wibblymat": {
+    "npmUsers": [
+      "wibblymat"
+    ],
+    "emails": [
+      "mat@wibbly.org.uk"
+    ],
+    "names": [
+      "Mat Scales"
+    ],
+    "githubUsers": [
+      "wibblymat"
+    ],
+    "twitters": [
+      "wibblymat"
+    ]
+  },
+  "paulirish": {
+    "npmUsers": [
+      "paulirish"
+    ],
+    "emails": [
+      "paul.irish@gmail.com"
+    ],
+    "names": [
+      "Paul Irish"
+    ],
+    "githubUsers": [
+      "paulirish"
+    ],
+    "twitters": [
+      "paul_irish"
+    ]
+  },
+  "sheerun": {
+    "npmUsers": [
+      "sheerun"
+    ],
+    "emails": [
+      "sheerun@sher.pl"
+    ],
+    "names": [
+      "Adam Stankiewicz"
+    ],
+    "githubUsers": [
+      "sheerun"
+    ]
+  },
+  "desandro": {
+    "npmUsers": [
+      "desandro"
+    ],
+    "emails": [
+      "desandrocodes@gmail.com"
+    ],
+    "githubUsers": [
+      "desandro"
+    ],
+    "names": [
+      "David DeSandro"
+    ]
+  },
+  "bentomas": {
+    "npmUsers": [
+      "bentomas"
+    ],
+    "emails": [
+      "ben@bentomas.com",
+      "benjamin@benjaminthomas.org"
+    ],
+    "githubUsers": [
+      "bentomas"
+    ],
+    "names": [
+      "Benjamin Thomas"
+    ]
+  },
+  "ncb000gt": {
+    "npmUsers": [
+      "ncb000gt"
+    ],
+    "emails": [
+      "nicholas.j.campbell@gmail.com"
+    ],
+    "names": [
+      "Nick Campbell"
+    ],
+    "githubUsers": [
+      "ncb000gt"
+    ],
+    "twitters": [
+      "ncb000gt"
+    ]
+  },
+  "jfirebaugh": {
+    "npmUsers": [
+      "jfirebaugh"
+    ],
+    "emails": [
+      "john.firebaugh@gmail.com"
+    ],
+    "names": [
+      "John Firebaugh"
+    ],
+    "githubUsers": [
+      "jfirebaugh"
+    ]
+  },
+  "tmpvar": {
+    "npmUsers": [
+      "tmpvar"
+    ],
+    "emails": [
+      "tmpvar@gmail.com"
+    ],
+    "names": [
+      "Elijah Insua"
+    ],
+    "githubUsers": [
+      "tmpvar"
+    ],
+    "twitters": [
+      "tmpvar"
+    ]
+  },
+  "sebmaster": {
+    "npmUsers": [
+      "sebmaster"
+    ],
+    "emails": [
+      "github@smayr.name",
+      "sebmaster16@gmail.com"
+    ],
+    "names": [
+      "Sebastian Mayr"
+    ],
+    "githubUsers": [
+      "Sebmaster"
+    ],
+    "twitters": [
+      "sebmasterkde"
+    ]
+  },
+  "alsotang": {
+    "npmUsers": [
+      "alsotang"
+    ],
+    "emails": [
+      "alsotang@gmail.com"
+    ],
+    "names": [
+      "alsotang"
+    ],
+    "githubUsers": [
+      "alsotang"
+    ],
+    "twitters": [
+      "alsotang"
+    ]
+  },
+  "sebmck": {
+    "npmUsers": [
+      "sebmck"
+    ],
+    "emails": [
+      "sebmck@gmail.com"
+    ],
+    "names": [
+      "Sebastian McKenzie"
+    ],
+    "githubUsers": [
+      "sebmck"
+    ],
+    "twitters": [
+      "sebmck"
     ]
   },
   "jjrdn": {
@@ -2797,8 +3228,8 @@
       "pwnall"
     ],
     "emails": [
-      "costan@gmail.com",
-      "victor@costan.us"
+      "victor@costan.us",
+      "costan@gmail.com"
     ],
     "githubUsers": [
       "pwnall"
@@ -2807,49 +3238,154 @@
       "Victor Costan"
     ]
   },
-  "ariya": {
+  "andris": {
     "npmUsers": [
-      "ariya"
+      "andris"
     ],
     "emails": [
-      "ariya.hidayat@gmail.com"
+      "andris.reinman@gmail.com",
+      "andris@node.ee"
     ],
     "names": [
-      "Ariya Hidayat"
+      "Andris Reinman"
     ],
     "githubUsers": [
-      "ariya"
+      "andris9"
     ],
     "twitters": [
-      "ariyahidayat"
+      "andrisreinman"
     ]
   },
-  "jedwatson": {
+  "gordonkristan": {
     "npmUsers": [
-      "jedwatson"
+      "gordonkristan"
     ],
     "emails": [
-      "jed.watson@me.com"
+      "me@gordonkristan.com"
     ],
     "names": [
-      "Jed Watson"
+      "Gordon Kristan"
     ],
     "githubUsers": [
-      "JedWatson"
+      "gordonkristan"
     ]
   },
-  "ryanmcgrath": {
+  "christkv": {
     "npmUsers": [
-      "ryanmcgrath"
+      "christkv"
     ],
     "emails": [
-      "ryan@venodesigns.net"
+      "christkv@gmail.com"
     ],
     "names": [
-      "Ryan McGrath"
+      "Christian Amor Kvalheim"
     ],
     "githubUsers": [
-      "ryanmcgrath"
+      "christkv"
+    ]
+  },
+  "avianflu": {
+    "npmUsers": [
+      "avianflu"
+    ],
+    "emails": [
+      "charlie@charlieistheman.com"
+    ],
+    "names": [
+      "Charlie McConnell"
+    ],
+    "githubUsers": [
+      "AvianFlu"
+    ],
+    "twitters": [
+      "av1anflu"
+    ]
+  },
+  "creationix": {
+    "npmUsers": [
+      "creationix"
+    ],
+    "emails": [
+      "tim@creationix.com"
+    ],
+    "names": [
+      "Tim Caswell"
+    ],
+    "githubUsers": [
+      "creationix"
+    ]
+  },
+  "iarna": {
+    "npmUsers": [
+      "iarna"
+    ],
+    "emails": [
+      "me@re-becca.org"
+    ],
+    "names": [
+      "Rebecca Turner"
+    ],
+    "githubUsers": [
+      "iarna"
+    ],
+    "twitters": [
+      "ReBeccaOrg"
+    ]
+  },
+  "kkoopa": {
+    "npmUsers": [
+      "kkoopa"
+    ],
+    "emails": [
+      "bbyholm@abo.fi"
+    ],
+    "names": [
+      "Benjamin Byholm"
+    ],
+    "githubUsers": [
+      "kkoopa"
+    ]
+  },
+  "aws": {
+    "npmUsers": [
+      "aws"
+    ],
+    "emails": [
+      "trevrowe@amazon.com"
+    ],
+    "names": [
+      "Amazon Web Services"
+    ],
+    "githubUsers": [
+      "aws/aws-sdk-js"
+    ],
+    "twitters": [
+      "awscloud"
+    ]
+  },
+  "raynos": {
+    "npmUsers": [
+      "raynos"
+    ],
+    "emails": [
+      "raynos2@gmail.com"
+    ],
+    "names": [
+      "Jake Verbaten"
+    ],
+    "githubUsers": [
+      "Raynos"
+    ],
+    "twitters": [
+      "Raynos"
+    ]
+  },
+  "cujojs": {
+    "npmUsers": [
+      "cujojs"
+    ],
+    "emails": [
+      "info@cujojs.com"
     ]
   },
   "nathan": {
@@ -2902,8 +3438,8 @@
       "dasilvacontin"
     ],
     "emails": [
-      "daviddasilvacontin@gmail.com",
-      "dasilvacontin@gmail.com"
+      "dasilvacontin@gmail.com",
+      "daviddasilvacontin@gmail.com"
     ],
     "names": [
       "David da Silva Contin",
@@ -2914,59 +3450,6 @@
     ],
     "twitters": [
       "dasilvacontin"
-    ]
-  },
-  "brianc": {
-    "npmUsers": [
-      "brianc"
-    ],
-    "emails": [
-      "brian.m.carlson@gmail.com"
-    ],
-    "names": [
-      "Brian Carlson",
-      "Brian C"
-    ],
-    "githubUsers": [
-      "brianc"
-    ],
-    "twitters": [
-      "briancarlson"
-    ]
-  },
-  "wyatt": {
-    "npmUsers": [
-      "wyatt"
-    ],
-    "emails": [
-      "wpreul@gmail.com"
-    ],
-    "names": [
-      "Wyatt Preul",
-      "Moved to geek"
-    ],
-    "githubUsers": [
-      "wpreul"
-    ],
-    "twitters": [
-      "wpreul"
-    ]
-  },
-  "raynos": {
-    "npmUsers": [
-      "raynos"
-    ],
-    "emails": [
-      "raynos2@gmail.com"
-    ],
-    "names": [
-      "Jake Verbaten"
-    ],
-    "githubUsers": [
-      "Raynos"
-    ],
-    "twitters": [
-      "Raynos"
     ]
   },
   "felixge": {
@@ -3064,8 +3547,8 @@
       "sidorares"
     ],
     "emails": [
-      "sidorares@yandex.com",
-      "sidorares@yandex.ru"
+      "sidorares@yandex.ru",
+      "sidorares@yandex.com"
     ],
     "names": [
       "Andrey Sidorov"
@@ -3094,319 +3577,64 @@
       "seanmonstar"
     ]
   },
-  "cowboy": {
+  "jaredhanson": {
     "npmUsers": [
-      "cowboy"
+      "jaredhanson"
     ],
     "emails": [
-      "cowboy@rj3.net"
+      "jaredhanson@gmail.com"
     ],
     "names": [
-      "Ben Alman"
+      "Jared Hanson"
     ],
     "githubUsers": [
-      "cowboy"
+      "jaredhanson"
     ]
   },
-  "tkellen": {
+  "caires": {
     "npmUsers": [
-      "tkellen"
+      "caires"
     ],
     "emails": [
-      "tyler@sleekcode.net"
-    ],
-    "names": [
-      "Tyler Kellen"
+      "cairesvs@gmail.com"
     ],
     "githubUsers": [
-      "tkellen"
+      "cairesvs"
+    ],
+    "names": [
+      "Caires Vinicius"
     ]
   },
-  "jrburke": {
+  "mape": {
     "npmUsers": [
-      "jrburke"
+      "mape"
     ],
     "emails": [
-      "jrburke@gmail.com"
+      "mape@ma.pe",
+      "mape@mape.me"
     ],
     "githubUsers": [
-      "jrburke"
-    ],
-    "names": [
-      "James Burke"
-    ]
-  },
-  "rondale-sc": {
-    "npmUsers": [
-      "rondale-sc"
-    ],
-    "emails": [
-      "jonathan.jackson1@me.com"
-    ],
-    "names": [
-      "Jonathan Jackson",
-      "Jonathan"
-    ],
-    "githubUsers": [
-      "rondale-sc"
+      "mape"
     ],
     "twitters": [
-      "rondale_sc"
-    ]
-  },
-  "rwjblue": {
-    "npmUsers": [
-      "rwjblue"
-    ],
-    "emails": [
-      "robert.w.jackson@me.com",
-      "me@rwjblue.com"
+      "mape"
     ],
     "names": [
-      "Robert Jackson"
-    ],
-    "githubUsers": [
-      "rwjblue"
-    ],
-    "twitters": [
-      "rwjblue"
+      "Mathias Pettersson"
     ]
   },
-  "trentm": {
+  "mishoo": {
     "npmUsers": [
-      "trentm"
+      "mishoo"
     ],
     "emails": [
-      "trentm@gmail.com"
+      "mihai.bazon@gmail.com"
     ],
     "names": [
-      "Trent Mick"
+      "Mihai Bazon"
     ],
     "githubUsers": [
-      "trentm"
-    ],
-    "twitters": [
-      "trentmick"
-    ]
-  },
-  "pvorb": {
-    "npmUsers": [
-      "pvorb"
-    ],
-    "emails": [
-      "paul@vorb.de",
-      "paul@vorba.ch"
-    ],
-    "names": [
-      "Paul Vorbach"
-    ],
-    "githubUsers": [
-      "pvorb"
-    ],
-    "twitters": [
-      "pvorb"
-    ]
-  },
-  "bruce": {
-    "npmUsers": [
-      "bruce"
-    ],
-    "emails": [
-      "bruce@codefluency.com",
-      "brwcodes@gmail.com"
-    ],
-    "githubUsers": [
-      "bruce"
-    ],
-    "names": [
-      "Bruce Williams"
-    ]
-  },
-  "satazor": {
-    "npmUsers": [
-      "satazor"
-    ],
-    "emails": [
-      "andremiguelcruz@msn.com",
-      "amdfcruz@gmail.com"
-    ],
-    "names": [
-      "André Cruz"
-    ],
-    "githubUsers": [
-      "satazor"
-    ],
-    "twitters": [
-      "satazor"
-    ]
-  },
-  "wibblymat": {
-    "npmUsers": [
-      "wibblymat"
-    ],
-    "emails": [
-      "mat@wibbly.org.uk"
-    ],
-    "names": [
-      "Mat Scales"
-    ],
-    "githubUsers": [
-      "wibblymat"
-    ],
-    "twitters": [
-      "wibblymat"
-    ]
-  },
-  "sheerun": {
-    "npmUsers": [
-      "sheerun"
-    ],
-    "emails": [
-      "sheerun@sher.pl"
-    ],
-    "names": [
-      "Adam Stankiewicz"
-    ],
-    "githubUsers": [
-      "sheerun"
-    ]
-  },
-  "desandro": {
-    "npmUsers": [
-      "desandro"
-    ],
-    "emails": [
-      "desandrocodes@gmail.com"
-    ],
-    "githubUsers": [
-      "desandro"
-    ],
-    "names": [
-      "David DeSandro"
-    ]
-  },
-  "goalsmashers": {
-    "npmUsers": [
-      "goalsmashers"
-    ],
-    "emails": [
-      "jakub@goalsmashers.com"
-    ]
-  },
-  "jakub.pawlowicz": {
-    "npmUsers": [
-      "jakub.pawlowicz"
-    ],
-    "emails": [
-      "contact@jakubpawlowicz.com"
-    ],
-    "names": [
-      "Jakub Pawlowicz"
-    ],
-    "githubUsers": [
-      "jakubpawlowicz"
-    ],
-    "twitters": [
-      "jakubpawlowicz"
-    ]
-  },
-  "jga": {
-    "npmUsers": [
-      "jga"
-    ],
-    "emails": [
-      "me@jga.me",
-      "hi@firstandthird.com"
-    ],
-    "names": [
-      "Greg Allen"
-    ],
-    "githubUsers": [
-      "jgallen23"
-    ],
-    "twitters": [
-      "greg_allen"
-    ]
-  },
-  "isagalaev": {
-    "npmUsers": [
-      "isagalaev"
-    ],
-    "emails": [
-      "maniac@softwaremaniacs.org"
-    ],
-    "names": [
-      "Ivan Sagalaev"
-    ],
-    "githubUsers": [
-      "isagalaev"
-    ]
-  },
-  "arb": {
-    "npmUsers": [
-      "arb"
-    ],
-    "emails": [
-      "arbretz@gmail.com"
-    ],
-    "names": [
-      "Adam Bretz"
-    ],
-    "githubUsers": [
-      "arb"
-    ],
-    "twitters": [
-      "adambretz"
-    ]
-  },
-  "hallas": {
-    "npmUsers": [
-      "hallas"
-    ],
-    "emails": [
-      "christoffer.hallas@forsvikgroup.com",
-      "christoffer.hallas@gmail.com"
-    ],
-    "githubUsers": [
-      "hallas"
-    ],
-    "names": [
-      "Christoffer Hallas"
-    ]
-  },
-  "prezjordan": {
-    "npmUsers": [
-      "prezjordan"
-    ],
-    "emails": [
-      "scalesjordan@gmail.com"
-    ],
-    "names": [
-      "Jordan Scales"
-    ],
-    "githubUsers": [
-      "jdan"
-    ],
-    "twitters": [
-      "jdan"
-    ]
-  },
-  "harth": {
-    "npmUsers": [
-      "harth"
-    ],
-    "emails": [
-      "fayearthur@gmail.com"
-    ],
-    "names": [
-      "Heather Arthur",
-      "Heather Arthur (All My Repos Are Unmaintained)"
-    ],
-    "githubUsers": [
-      "harthur"
-    ],
-    "twitters": [
-      "harthvader"
+      "mishoo"
     ]
   },
   "rwky": {
@@ -3441,136 +3669,13 @@
       "Paweł Maciejewski"
     ]
   },
-  "pietern": {
-    "npmUsers": [
-      "pietern"
-    ],
-    "emails": [
-      "pcnoordhuis@gmail.com"
-    ],
-    "names": [
-      "Pieter Noordhuis"
-    ],
-    "githubUsers": [
-      "pietern"
-    ]
-  },
-  "badboy_": {
-    "npmUsers": [
-      "badboy_"
-    ],
-    "emails": [
-      "janerik@fnordig.de",
-      "badboy@archlinux.us"
-    ],
-    "githubUsers": [
-      "badboy"
-    ],
-    "names": [
-      "Jan-Erik Rediger"
-    ]
-  },
-  "soldair": {
-    "npmUsers": [
-      "soldair"
-    ],
-    "emails": [
-      "soldair@gmail.com"
-    ],
-    "names": [
-      "Ryan Day"
-    ],
-    "githubUsers": [
-      "soldair"
-    ],
-    "twitters": [
-      "soldair"
-    ]
-  },
-  "yeikos": {
-    "npmUsers": [
-      "yeikos"
-    ],
-    "emails": [
-      "yeikos@gmail.com"
-    ],
-    "githubUsers": [
-      "yeikos"
-    ]
-  },
-  "cronopio": {
-    "npmUsers": [
-      "cronopio"
-    ],
-    "emails": [
-      "aristizabal.daniel@gmail.com"
-    ],
-    "names": [
-      "Daniel Aristizabal"
-    ],
-    "githubUsers": [
-      "cronopio"
-    ],
-    "twitters": [
-      "cronopio2"
-    ]
-  },
-  "yawnt": {
-    "npmUsers": [
-      "yawnt"
-    ],
-    "emails": [
-      "yawn.localhost@gmail.com",
-      "me@yawnt.com"
-    ],
-    "githubUsers": [
-      "yawnt"
-    ],
-    "twitters": [
-      "yawnt"
-    ],
-    "names": [
-      "ヨーント"
-    ]
-  },
-  "ashtuchkin": {
-    "npmUsers": [
-      "ashtuchkin"
-    ],
-    "emails": [
-      "ashtuchkin@gmail.com"
-    ],
-    "names": [
-      "Alexander Shtuchkin"
-    ],
-    "githubUsers": [
-      "ashtuchkin"
-    ]
-  },
-  "az7arul": {
-    "npmUsers": [
-      "az7arul"
-    ],
-    "emails": [
-      "az7arul@gmail.com"
-    ],
-    "githubUsers": [
-      "az7arul"
-    ],
-    "twitters": [
-      "az7arul"
-    ],
-    "names": [
-      "Azharul Islam"
-    ]
-  },
   "csausdev": {
     "npmUsers": [
       "csausdev"
     ],
     "emails": [
-      "gareth.jones@sensis.com.au",
-      "gareth.nomiddlename@gmail.com"
+      "gareth.nomiddlename@gmail.com",
+      "gareth.jones@sensis.com.au"
     ],
     "names": [
       "Gareth Jones"
@@ -3582,222 +3687,116 @@
       "nomiddlename"
     ]
   },
-  "paularmstrong": {
+  "paulmillr": {
     "npmUsers": [
-      "paularmstrong"
+      "paulmillr"
     ],
     "emails": [
-      "paul@paularmstrongdesigns.com"
-    ],
-    "names": [
-      "Paul Armstrong"
+      "paul+gh@paulmillr.com",
+      "paul@paulmillr.com"
     ],
     "githubUsers": [
-      "paularmstrong"
+      "paulmillr"
+    ],
+    "names": [
+      "Paul Miller"
     ]
   },
-  "hij1nx": {
+  "es128": {
     "npmUsers": [
-      "hij1nx"
+      "es128"
     ],
     "emails": [
-      "hij1nx@me.com",
-      "paolo@async.ly"
+      "elan.shanker+npm@gmail.com"
     ],
     "names": [
-      "Paolo Fragomeni"
+      "Elan Shanker"
     ],
     "githubUsers": [
-      "hij1nx"
+      "es128"
+    ]
+  },
+  "cohara87": {
+    "npmUsers": [
+      "cohara87"
+    ],
+    "emails": [
+      "cohara87@gmail.com"
+    ],
+    "githubUsers": [
+      "chriso"
+    ],
+    "names": [
+      "Chris O'Hara"
+    ]
+  },
+  "jaffathecake": {
+    "npmUsers": [
+      "jaffathecake"
+    ],
+    "emails": [
+      " jaffathecake@gmail.com",
+      "jaffathecake@gmail.com"
+    ],
+    "githubUsers": [
+      "jakearchibald"
+    ],
+    "names": [
+      "Jake Archibald"
+    ]
+  },
+  "marsup": {
+    "npmUsers": [
+      "marsup"
+    ],
+    "emails": [
+      "marsup@gmail.com"
+    ],
+    "names": [
+      "Nicolas Morel"
+    ],
+    "githubUsers": [
+      "Marsup"
     ],
     "twitters": [
-      "hij1nx"
+      "nmarsup"
     ]
   },
-  "jasonkuhrt": {
+  "ai": {
     "npmUsers": [
-      "jasonkuhrt"
+      "ai"
     ],
     "emails": [
-      "jasonkuhrt@me.com"
+      "andrey@sitnik.ru"
     ],
     "names": [
-      "Jason Rose-Kuhrt"
+      "Andrey Sitnik"
     ],
     "githubUsers": [
-      "jasonkuhrt"
+      "ai"
+    ]
+  },
+  "beneb": {
+    "npmUsers": [
+      "beneb"
+    ],
+    "emails": [
+      "beneb.info@gmail.com"
+    ],
+    "names": [
+      "Ben Briggs"
+    ],
+    "githubUsers": [
+      "ben-eb"
     ],
     "twitters": [
-      "jasonkuhrt"
-    ]
-  },
-  "mbostock": {
-    "npmUsers": [
-      "mbostock"
-    ],
-    "emails": [
-      "mbostock@gmail.com",
-      "mike@ocks.org"
-    ],
-    "names": [
-      "Mike Bostock"
-    ],
-    "githubUsers": [
-      "mbostock"
-    ],
-    "twitters": [
-      "mbostock"
-    ]
-  },
-  "jasondavies": {
-    "npmUsers": [
-      "jasondavies"
-    ],
-    "emails": [
-      "jason@jasondavies.com"
-    ],
-    "githubUsers": [
-      "jasondavies"
-    ],
-    "names": [
-      "Jason Davies"
-    ]
-  },
-  "alsotang": {
-    "npmUsers": [
-      "alsotang"
-    ],
-    "emails": [
-      "alsotang@gmail.com"
-    ],
-    "names": [
-      "alsotang"
-    ],
-    "githubUsers": [
-      "alsotang"
-    ],
-    "twitters": [
-      "alsotang"
-    ]
-  },
-  "ncb000gt": {
-    "npmUsers": [
-      "ncb000gt"
-    ],
-    "emails": [
-      "nicholas.j.campbell@gmail.com"
-    ],
-    "names": [
-      "Nick Campbell"
-    ],
-    "githubUsers": [
-      "ncb000gt"
-    ],
-    "twitters": [
-      "ncb000gt"
-    ]
-  },
-  "jfirebaugh": {
-    "npmUsers": [
-      "jfirebaugh"
-    ],
-    "emails": [
-      "john.firebaugh@gmail.com"
-    ],
-    "names": [
-      "John Firebaugh"
-    ],
-    "githubUsers": [
-      "jfirebaugh"
-    ]
-  },
-  "crosseye": {
-    "npmUsers": [
-      "crosseye"
-    ],
-    "emails": [
-      "scott@sauyet.com",
-      "scott.sauyet@gmail.com"
-    ],
-    "names": [
-      "Scott Sauyet"
-    ],
-    "githubUsers": [
-      "CrossEye/",
-      "crosseye"
-    ]
-  },
-  "buzzdecafe": {
-    "npmUsers": [
-      "buzzdecafe"
-    ],
-    "emails": [
-      "mh@buzzdecafe.com"
-    ],
-    "names": [
-      "Buzz de Cafe",
-      "Michael Hurley"
-    ],
-    "githubUsers": [
-      "buzzdecafe"
-    ],
-    "twitters": [
-      "buzzdecafe"
-    ]
-  },
-  "dpup": {
-    "npmUsers": [
-      "dpup"
-    ],
-    "emails": [
-      "dan@pupi.us"
-    ],
-    "names": [
-      "Daniel Pupius"
-    ],
-    "githubUsers": [
-      "dpup"
-    ]
-  },
-  "nicks": {
-    "npmUsers": [
-      "nicks"
-    ],
-    "emails": [
-      "nicholas.j.santos@gmail.com"
-    ],
-    "names": [
-      "Nick Santos"
-    ],
-    "githubUsers": [
-      "nicks"
-    ],
-    "twitters": [
-      "nicksantos"
-    ]
-  },
-  "medium": {
-    "npmUsers": [
-      "medium"
-    ],
-    "emails": [
-      "npm@medium.com",
-      "yourfriends@medium.com"
-    ],
-    "names": [
-      "Medium"
-    ],
-    "githubUsers": [
-      "medium"
-    ],
-    "twitters": [
-      "MediumEng"
+      "ben_eb"
     ]
   },
   "nexdrew": {
     "npmUsers": [
-      "abg",
-      "nexdrew"
+      "nexdrew",
+      "abg"
     ],
     "emails": [
       "andrewbgoode@gmail.com"
@@ -3814,12 +3813,12 @@
   },
   "indutny": {
     "npmUsers": [
-      "fedor.indutny",
-      "indutny"
+      "indutny",
+      "fedor.indutny"
     ],
     "emails": [
-      "fedor.indutny@gmail.com",
-      "fedor@indutny.com"
+      "fedor@indutny.com",
+      "fedor.indutny@gmail.com"
     ],
     "names": [
       "Fedor Indutny"
@@ -3855,12 +3854,12 @@
     "githubUsers": [
       "millermedeiros"
     ],
-    "names": [
-      "Miller Medeiros"
-    ],
     "emails": [
       "contact@millermedeiros.com",
       "miller@millermedeiros.com"
+    ],
+    "names": [
+      "Miller Medeiros"
     ]
   },
   "floatdrop": {
@@ -3919,8 +3918,8 @@
       "Flet"
     ],
     "emails": [
-      "flettre@gmail.com",
-      "fletd01@yahoo.com"
+      "fletd01@yahoo.com",
+      "flettre@gmail.com"
     ],
     "names": [
       "Dan Flettre"
@@ -3950,15 +3949,15 @@
     "githubUsers": [
       "juliangruber"
     ],
+    "emails": [
+      "julian@juliangruber.com",
+      "mail@juliangruber.com"
+    ],
     "names": [
       "Julian Gruber"
     ],
     "twitters": [
       "juliangruber"
-    ],
-    "emails": [
-      "julian@juliangruber.com",
-      "mail@juliangruber.com"
     ]
   },
   "mattdesl": {
@@ -4020,8 +4019,8 @@
       "gaearon"
     ],
     "emails": [
-      "dan.abramov@gmail.com",
-      "dan.abramov@me.com"
+      "dan.abramov@me.com",
+      "dan.abramov@gmail.com"
     ],
     "names": [
       "Dan Abramov"
