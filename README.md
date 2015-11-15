@@ -109,7 +109,7 @@ console.log(domenic.summary())
 
 Synchronously resolve query to an individual author, if known.
 
-- Returns: `allStars.AllStar` object
+- Returns: `allStars.AllStar` object or `null`
 - `query`: string|array|object, identifier(s) to resolve
 
 ### allStars.AllStar
