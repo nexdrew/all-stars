@@ -63,23 +63,23 @@ console.log(othiym23.summary())
 //=> Forrest L Norvell <forrest@npmjs.com>
 
 var substack = allStars('substack')
-console.log(substack.emails())
+console.log(substack.emails)
 //=> [ 'mail@substack.net', 'substack@gmail.com' ]
 
 var jongleberry = allStars('jongleberry')
-console.log(jongleberry.npmUsers())
+console.log(jongleberry.npmUsers)
 //=> [ 'jongleberry', 'jonathanong' ]
 
 var tj = allStars('tjholowaychuk')
-console.log(tj.githubUsers())
+console.log(tj.githubUsers)
 //=> [ 'tj' ]
 
 var bcoe = allStars('Benjamin E. Coe')
-console.log(bcoe.names())
+console.log(bcoe.names)
 //=> [ 'Benjamin Coe', 'Ben Coe', 'Benjamin E. Coe' ]
 
 var sindre = allStars('sindresorhus@gmail.com')
-console.log(sindre.twitters())
+console.log(sindre.twitters)
 //=> [ 'sindresorhus' ]
 ```
 
@@ -116,20 +116,20 @@ Synchronously resolve query to an individual author, if known.
 
 Object returned from `allStars()` method. Contains the following:
 
-- `email()`: function, returns first email address from emails array
-- `emails()`: function, returns array of all known email addresses
-- `githubUser()`: function, returns first GitHub username from array
-- `githubUsers()`: function, returns array of all known GitHub usernames
+- `email`: string (may be null), first email address from emails array
+- `emails`: array of strings (may be null), all known email addresses
+- `githubUser`: string (may be null), first GitHub username from array
+- `githubUsers`: array of strings (may be null), all known GitHub usernames
 - `id`: string, identifying key of this author, typically the preferred npm username
-- `name()`: function, returns first name from names array
-- `names()`: function, returns array of all known names
-- `npmUser()`: function, return first npm username from array
-- `npmUsers()`: function, returns array of all known npm usernames
+- `name`: string (may be null), first name from names array
+- `names`: array of strings (may be null), all known names
+- `npmUser`: string (may be null), first npm username from array
+- `npmUsers`: array of strings (may be null), all known npm usernames
 - `summary([all])`: function, returns first value from each array, concatenated as string
     - `all`: boolean, `true` if you want all fields, `false` if you just want name and email
 - `toString()`: function, alias for `summary(true)`
-- `twitter()`: function, returns first Twitter handle from array
-- `twitters()`: function, returns array of all known Twitter handles
+- `twitter`: string (may be null), first Twitter handle from array
+- `twitters`: array of strings (may be null), all known Twitter handles
 
 ## Data Fetching/Generation
 

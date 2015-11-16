@@ -54,64 +54,39 @@ function AllStar (author) {
   /** The identifying key of this AllStar, typically the preferred npm username */
   self.id = author
 
-  /** Return array of all known npm usernames */
-  self.npmUsers = function npmUsers () {
-    return authorsField('npmUsers')
+  ;['npmUsers', 'emails', 'names', 'githubUsers', 'twitters'].forEach(function (fieldName) {
+    // define array property, as plural fieldName
+    Object.defineProperty(self, fieldName, arrayGetter(fieldName))
+    // define property for first value of array, as singular fieldName
+    Object.defineProperty(self, fieldName.substring(0, fieldName.length - 1), firstValueGetter(fieldName))
+  })
+
+  function arrayGetter (fieldName) {
+    return {
+      get: function () {
+        return authorsField(fieldName)
+      },
+      enumerable: true
+    }
   }
 
-  /** Return preferred (first) known npm username */
-  self.npmUser = function npmUser () {
-    return first(self.npmUsers())
-  }
-
-  /** Return array of all known email addresses */
-  self.emails = function emails () {
-    return authorsField('emails')
-  }
-
-  /** Return preferred (first) known email address */
-  self.email = function email () {
-    return first(self.emails())
-  }
-
-  /** Return array of all known names */
-  self.names = function names () {
-    return authorsField('names')
-  }
-
-  /** Return preferred (first) known name */
-  self.name = function name () {
-    return first(self.names())
-  }
-
-  /** Return array of all known GitHub usernames */
-  self.githubUsers = function githubUsers () {
-    return authorsField('githubUsers')
-  }
-
-  /** Return preferred (first) known GitHub username */
-  self.githubUser = function githubUser () {
-    return first(self.githubUsers())
-  }
-
-  /** Return array of all known Twitter handles */
-  self.twitters = function twitters () {
-    return authorsField('twitters')
-  }
-
-  /** Return preferred (first) known Twitter handle */
-  self.twitter = function twitter () {
-    return first(self.twitters())
+  function firstValueGetter (fieldName) {
+    return {
+      get: function () {
+        return first(authorsField(fieldName))
+      },
+      enumerable: true
+    }
   }
 
   /** Return name and email, with optional usernames */
   self.summary = function summary (all) {
-    var summary = self.name() || self.id
-    summary = append(summary, ' ', '<', self.email(), '>')
+    var summary = self.name || self.id
+    summary = append(summary, ' ', '<', self.email, '>')
     if (!all) return summary
-    var rest = append('', '', 'npm: ', self.npmUser())
-    rest = append(rest, ', ', 'GitHub: ', self.githubUser())
-    rest = append(rest, ', ', 'Twitter: ', self.twitter())
+    var rest = append('', '', 'npm: ', self.npmUser)
+    rest = append(rest, ', ', 'GitHub: ', self.githubUser)
+    rest = append(rest, ', ', 'Twitter: ', self.twitter)
     return append(summary, ' ', '(', rest, ')')
   }
 
@@ -136,25 +111,13 @@ function AllStar (author) {
 }
 
 // API access to underlying data, allowing modification if desired
-allStars.index = function index () {
-  return indexJson
-}
+allStars.index = indexJson
 
-allStars.authors = function authors () {
-  // return JSON.parse(JSON.stringify(authorsJson))
-  return authorsJson
-}
+allStars.authors = authorsJson
 
-allStars.packages = function packages () {
-  return require('./packages.json')
-}
-
-// Promise-based API for fetching content (node 4+ only)
-// TODO conditional export might be a bad idea :)
-allStars.fetchPackages = isNode4Plus() ? require('./lib/fetchPackages.js') : undefined
-
-allStars.fetchAuthors = isNode4Plus() ? require('./lib/fetchAuthors.js') : undefined
-
-function isNode4Plus () {
-  return parseInt(process.version.charAt(1), 10) >= 4
-}
+Object.defineProperty(allStars, 'packages', {
+  get: function () {
+    return require('./packages.json')
+  },
+  enumerable: true
+})
