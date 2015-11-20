@@ -125,6 +125,13 @@ Object returned from `allStars()` method. Contains the following:
 - `names`: array of strings (may be null), all known names
 - `npmUser`: string (may be null), first npm username from array
 - `npmUsers`: array of strings (may be null), all known npm usernames
+- `subset`: function, returns an object as a subset of this object.
+    Useful for assigning or merging with another object. The subset object contains:
+    - `name`: string or null, same as `name`
+    - `email`: string or null, same as `email`
+    - `npm`: string or null, same as `npmUser`
+    - `github`: string or null, same as `githubUser`
+    - `twitter`: string or null, same as `twitter`
 - `summary([all])`: function, returns first value from each array, concatenated as string
     - `all`: boolean, `true` if you want all fields, `false` if you just want name and email
 - `toString()`: function, alias for `summary(true)`

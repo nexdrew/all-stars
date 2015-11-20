@@ -17,8 +17,7 @@ function allStars (query) {
 }
 
 function lookupArray (query) {
-  var result
-  for (var i = 0; i < query.length; i++) {
+  for (var i = 0, result; i < query.length; i++) {
     result = allStars(query[i])
     if (result) return result
   }
@@ -27,8 +26,7 @@ function lookupArray (query) {
 
 function lookupObject (query) {
   var keys = Object.keys(query)
-  var result
-  for (var i = 0; i < keys.length; i++) {
+  for (var i = 0, result; i < keys.length; i++) {
     result = allStars(query[keys[i]])
     if (result) return result
   }
@@ -77,6 +75,20 @@ function AllStar (author) {
       },
       enumerable: true
     }
+  }
+
+  var sub
+  self.subset = function subset () {
+    if (!sub) {
+      sub = {
+        name: self.name,
+        email: self.email,
+        npm: self.npmUser,
+        github: self.githubUser,
+        twitter: self.twitter
+      }
+    }
+    return sub
   }
 
   /** Return name and email, with optional usernames */
